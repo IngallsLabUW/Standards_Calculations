@@ -1,0 +1,993 @@
+Protein Name,Replicate Name,Precursor Ion Name,Retention Time,Area,Background,Height,Mass Error PPM,Protein
+Amino Acids,191120_Blk_GlassBlk_Durapore,Histidine,1.33,147603,0,136163,-0.2,Amino Acids
+Amino Acids,191120_Smp_GlassDurapore_A,Histidine,1.33,15361889,0,12751984,-0.1,Amino Acids
+Amino Acids,191120_Smp_GlassDurapore_B,Histidine,1.33,13070438,0,11207641,-0.2,Amino Acids
+Amino Acids,191120_Smp_GlassDurapore_C,Histidine,1.33,13939356,0,12743267,-0.1,Amino Acids
+Amino Acids,191120_Smp_0uM_GlassBSA-Durapore_A,Histidine,1.33,15142253,0,12085600,-0.1,Amino Acids
+Amino Acids,191120_Smp_0-5uM_GlassBSA-Durapore_A,Histidine,1.33,31903480,0,27868912,-0.1,Amino Acids
+Amino Acids,191120_Smp_1uM_GlassBSA-Durapore_A,Histidine,1.33,52675544,0,44005536,-0.5,Amino Acids
+Amino Acids,191120_Smp_2-5uM_GlassBSA-Durapore_A,Histidine,1.33,113895696,0,95133720,-0.6,Amino Acids
+Amino Acids,191120_Blk_GlassBlk_Vial,Histidine,1.33,144312,0,129751,-0.3,Amino Acids
+Amino Acids,191120_Smp_GlassVial_A,Histidine,1.33,13756123,0,11324879,-0.1,Amino Acids
+Amino Acids,191120_Smp_GlassVial_B,Histidine,1.34,15412238,0,12456913,0.3,Amino Acids
+Amino Acids,191120_Smp_GlassVial_C,Histidine,1.33,14948541,0,13215016,0.3,Amino Acids
+Amino Acids,191120_Smp_0uM_GlassBSA-Vial_A,Histidine,1.33,13557513,0,11797953,0,Amino Acids
+Amino Acids,191120_Smp_0-5uM_GlassBSA-Vial_A,Histidine,1.34,31709692,0,24721442,0.1,Amino Acids
+Amino Acids,191120_Smp_1uM_GlassBSA-Vial_A,Histidine,1.34,46403044,0,38562612,-0.4,Amino Acids
+Amino Acids,191120_Smp_2-5uM_GlassBSA-Vial_A,Histidine,1.33,104427944,0,83998288,-0.3,Amino Acids
+Amino Acids,191120_Blk_GlassBlk_Omnipore,Histidine,1.33,173851,0,153370,0.3,Amino Acids
+Amino Acids,191120_Smp_GlassOmnipore_A,Histidine,1.33,16764150,0,13647290,-0.4,Amino Acids
+Amino Acids,191120_Smp_GlassOmnipore_B,Histidine,1.33,16401575,0,13989853,-0.4,Amino Acids
+Amino Acids,191120_Smp_GlassOmnipore_C,Histidine,1.33,9589164,0,8333069,-0.3,Amino Acids
+Amino Acids,191120_Smp_0uM_GlassBSA-Omnipore_A,Histidine,1.33,15407102,0,12548180,-0.3,Amino Acids
+Amino Acids,191120_Smp_0-5uM_GlassBSA-Omnipore_A,Histidine,1.33,33897464,0,27739742,-0.3,Amino Acids
+Amino Acids,191120_Smp_1uM_GlassBSA-Omnipore_A,Histidine,1.33,54241464,582496,47526544,-0.5,Amino Acids
+Amino Acids,191120_Smp_2-5uM_GlassBSA-Omnipore_A,Histidine,1.33,111625072,1228048,92981256,-0.6,Amino Acids
+Amino Acids,191120_Blk_GlassBlk_GF75,Histidine,1.33,199974,0,211546,0,Amino Acids
+Amino Acids,191120_Smp_GlassGF75_A,Histidine,1.33,9685278,0,8462256,-0.3,Amino Acids
+Amino Acids,191120_Smp_GlassGF75_B,Histidine,1.34,12436047,0,10642496,-0.4,Amino Acids
+Amino Acids,191120_Smp_GlassGF75_C,Histidine,1.33,10102581,0,8614462,-0.5,Amino Acids
+Amino Acids,191120_Smp_0uM_GlassBSA-GF75_A,Histidine,1.33,10553054,0,9014601,-0.4,Amino Acids
+Amino Acids,191120_Smp_0-5uM_GlassBSA-GF75_A,Histidine,1.33,27379152,53141,22821656,-0.4,Amino Acids
+Amino Acids,191120_Smp_1uM_GlassBSA-GF75_A,Histidine,1.33,44173968,0,36892996,-0.6,Amino Acids
+Amino Acids,191120_Smp_2-5uM_GlassBSA-GF75_A,Histidine,1.34,101015704,0,88151224,-1.2,Amino Acids
+Amino Acids,191120_Blk_GlassBlk_Durapore,Arginine,1.95,195576,0,169068,-0.4,Amino Acids
+Amino Acids,191120_Smp_GlassDurapore_A,Arginine,1.95,24327484,0,13494481,-0.2,Amino Acids
+Amino Acids,191120_Smp_GlassDurapore_B,Arginine,1.95,20951894,25032,12002720,-0.5,Amino Acids
+Amino Acids,191120_Smp_GlassDurapore_C,Arginine,1.95,21100034,0,11126746,-0.2,Amino Acids
+Amino Acids,191120_Smp_0uM_GlassBSA-Durapore_A,Arginine,1.95,22691768,0,13809983,0,Amino Acids
+Amino Acids,191120_Smp_0-5uM_GlassBSA-Durapore_A,Arginine,1.95,41620188,0,23616316,-0.3,Amino Acids
+Amino Acids,191120_Smp_1uM_GlassBSA-Durapore_A,Arginine,1.95,62543748,0,33652276,0.2,Amino Acids
+Amino Acids,191120_Smp_2-5uM_GlassBSA-Durapore_A,Arginine,1.95,128190432,602692,68888040,0.1,Amino Acids
+Amino Acids,191120_Blk_GlassBlk_Vial,Arginine,1.94,117421,0,161248,-0.2,Amino Acids
+Amino Acids,191120_Smp_GlassVial_A,Arginine,1.95,23905810,149925,15028745,-0.4,Amino Acids
+Amino Acids,191120_Smp_GlassVial_B,Arginine,1.95,25190900,0,16255802,0.2,Amino Acids
+Amino Acids,191120_Smp_GlassVial_C,Arginine,1.95,25545810,0,14251398,0.2,Amino Acids
+Amino Acids,191120_Smp_0uM_GlassBSA-Vial_A,Arginine,1.95,24024562,0,14779195,-0.2,Amino Acids
+Amino Acids,191120_Smp_0-5uM_GlassBSA-Vial_A,Arginine,1.95,44994128,527147,25807476,-0.3,Amino Acids
+Amino Acids,191120_Smp_1uM_GlassBSA-Vial_A,Arginine,1.95,59055680,665942,36778172,-0.4,Amino Acids
+Amino Acids,191120_Smp_2-5uM_GlassBSA-Vial_A,Arginine,1.95,122121328,1351108,58954480,-0.4,Amino Acids
+Amino Acids,191120_Blk_GlassBlk_Omnipore,Arginine,1.95,374542,0,245459,0.1,Amino Acids
+Amino Acids,191120_Smp_GlassOmnipore_A,Arginine,1.95,26949306,0,15798799,-0.3,Amino Acids
+Amino Acids,191120_Smp_GlassOmnipore_B,Arginine,1.95,23302166,0,14097014,-0.1,Amino Acids
+Amino Acids,191120_Smp_GlassOmnipore_C,Arginine,1.95,19283156,0,10104884,0,Amino Acids
+Amino Acids,191120_Smp_0uM_GlassBSA-Omnipore_A,Arginine,1.95,23206276,184400,13372889,0,Amino Acids
+Amino Acids,191120_Smp_0-5uM_GlassBSA-Omnipore_A,Arginine,1.96,47424012,195526,26100726,0,Amino Acids
+Amino Acids,191120_Smp_1uM_GlassBSA-Omnipore_A,Arginine,1.95,68034104,746783,33866716,-0.2,Amino Acids
+Amino Acids,191120_Smp_2-5uM_GlassBSA-Omnipore_A,Arginine,1.95,125236344,1099869,61978624,0,Amino Acids
+Amino Acids,191120_Blk_GlassBlk_GF75,Arginine,1.95,499695,0,332704,-0.3,Amino Acids
+Amino Acids,191120_Smp_GlassGF75_A,Arginine,1.95,18415458,0,12608333,-0.1,Amino Acids
+Amino Acids,191120_Smp_GlassGF75_B,Arginine,1.95,26129502,107022,16464833,-0.3,Amino Acids
+Amino Acids,191120_Smp_GlassGF75_C,Arginine,1.95,21893880,0,13539788,-0.2,Amino Acids
+Amino Acids,191120_Smp_0uM_GlassBSA-GF75_A,Arginine,1.95,20723992,202372,13282806,-0.2,Amino Acids
+Amino Acids,191120_Smp_0-5uM_GlassBSA-GF75_A,Arginine,1.95,43850480,163322,26741534,-0.7,Amino Acids
+Amino Acids,191120_Smp_1uM_GlassBSA-GF75_A,Arginine,1.95,66077312,755451,41588488,-0.6,Amino Acids
+Amino Acids,191120_Smp_2-5uM_GlassBSA-GF75_A,Arginine,1.95,130627168,732806,68211664,-0.8,Amino Acids
+Amino Acids,191120_Blk_GlassBlk_Durapore,Serine,2.26,8357524,0,3670430,-0.9,Amino Acids
+Amino Acids,191120_Smp_GlassDurapore_A,Serine,2.26,163091360,1644814,80964896,-1.1,Amino Acids
+Amino Acids,191120_Smp_GlassDurapore_B,Serine,2.27,153246176,1450926,78540456,-1.2,Amino Acids
+Amino Acids,191120_Smp_GlassDurapore_C,Serine,2.26,174635216,2289546,86487408,-1,Amino Acids
+Amino Acids,191120_Smp_0uM_GlassBSA-Durapore_A,Serine,2.26,152445264,1504443,79321880,-0.9,Amino Acids
+Amino Acids,191120_Smp_0-5uM_GlassBSA-Durapore_A,Serine,2.26,270265344,1819916,133105584,-1,Amino Acids
+Amino Acids,191120_Smp_1uM_GlassBSA-Durapore_A,Serine,2.26,412242304,4655095,192703408,-0.9,Amino Acids
+Amino Acids,191120_Smp_2-5uM_GlassBSA-Durapore_A,Serine,2.26,797071680,9569964,328182080,-1.2,Amino Acids
+Amino Acids,191120_Blk_GlassBlk_Vial,Serine,2.25,10066744,0,4655897,-1,Amino Acids
+Amino Acids,191120_Smp_GlassVial_A,Serine,2.26,152925856,454023,85585696,-1.1,Amino Acids
+Amino Acids,191120_Smp_GlassVial_B,Serine,2.26,183173184,1337333,95067400,-0.8,Amino Acids
+Amino Acids,191120_Smp_GlassVial_C,Serine,2.26,182700368,1478125,85358784,-1,Amino Acids
+Amino Acids,191120_Smp_0uM_GlassBSA-Vial_A,Serine,2.26,146002368,1112677,77381072,-1,Amino Acids
+Amino Acids,191120_Smp_0-5uM_GlassBSA-Vial_A,Serine,2.26,291386336,3025212,138940000,-1.2,Amino Acids
+Amino Acids,191120_Smp_1uM_GlassBSA-Vial_A,Serine,2.26,376655200,3762137,178879968,-1.4,Amino Acids
+Amino Acids,191120_Smp_2-5uM_GlassBSA-Vial_A,Serine,2.26,778716032,13533771,306648928,-1.4,Amino Acids
+Amino Acids,191120_Blk_GlassBlk_Omnipore,Serine,2.26,11903039,0,5942187,-0.6,Amino Acids
+Amino Acids,191120_Smp_GlassOmnipore_A,Serine,2.26,174572560,930139,93068976,-1,Amino Acids
+Amino Acids,191120_Smp_GlassOmnipore_B,Serine,2.26,168978112,1128865,92340768,-0.8,Amino Acids
+Amino Acids,191120_Smp_GlassOmnipore_C,Serine,2.26,203180992,1181410,88870728,-0.9,Amino Acids
+Amino Acids,191120_Smp_0uM_GlassBSA-Omnipore_A,Serine,2.26,153494144,617926,78860280,-0.6,Amino Acids
+Amino Acids,191120_Smp_0-5uM_GlassBSA-Omnipore_A,Serine,2.26,288577760,3350664,140138752,-0.6,Amino Acids
+Amino Acids,191120_Smp_1uM_GlassBSA-Omnipore_A,Serine,2.26,452181088,5842397,189957488,-0.8,Amino Acids
+Amino Acids,191120_Smp_2-5uM_GlassBSA-Omnipore_A,Serine,2.26,770187008,7085841,339267744,-1.4,Amino Acids
+Amino Acids,191120_Blk_GlassBlk_GF75,Serine,2.26,15564932,0,7730896,-1,Amino Acids
+Amino Acids,191120_Smp_GlassGF75_A,Serine,2.26,131177920,654271,86016184,-0.6,Amino Acids
+Amino Acids,191120_Smp_GlassGF75_B,Serine,2.26,170847456,1001141,91442576,-0.7,Amino Acids
+Amino Acids,191120_Smp_GlassGF75_C,Serine,2.26,150928672,1998264,83540760,-0.8,Amino Acids
+Amino Acids,191120_Smp_0uM_GlassBSA-GF75_A,Serine,2.26,134920912,455816,74826312,-0.6,Amino Acids
+Amino Acids,191120_Smp_0-5uM_GlassBSA-GF75_A,Serine,2.26,270341952,2037068,147022016,-1,Amino Acids
+Amino Acids,191120_Smp_1uM_GlassBSA-GF75_A,Serine,2.26,409736096,5111681,224734704,-1.1,Amino Acids
+Amino Acids,191120_Smp_2-5uM_GlassBSA-GF75_A,Serine,2.26,773975616,5302857,332574528,-1.6,Amino Acids
+Amino Acids,191120_Blk_GlassBlk_Durapore,Glycine,2.48,37594112,357483,20056496,-1.6,Amino Acids
+Amino Acids,191120_Smp_GlassDurapore_A,Glycine,2.49,200286096,1553821,111680384,-1.5,Amino Acids
+Amino Acids,191120_Smp_GlassDurapore_B,Glycine,2.49,157227104,1949726,88523944,-1.5,Amino Acids
+Amino Acids,191120_Smp_GlassDurapore_C,Glycine,2.48,184970736,1117531,102502168,-1.6,Amino Acids
+Amino Acids,191120_Smp_0uM_GlassBSA-Durapore_A,Glycine,2.48,191269680,1458756,113934304,-1.4,Amino Acids
+Amino Acids,191120_Smp_0-5uM_GlassBSA-Durapore_A,Glycine,2.48,348259104,2492141,193794160,-1.7,Amino Acids
+Amino Acids,191120_Smp_1uM_GlassBSA-Durapore_A,Glycine,2.48,511888512,4605642,274564896,-1.5,Amino Acids
+Amino Acids,191120_Smp_2-5uM_GlassBSA-Durapore_A,Glycine,2.48,994361920,10072871,474588416,-1.6,Amino Acids
+Amino Acids,191120_Blk_GlassBlk_Vial,Glycine,2.48,226393456,2008915,120010856,-1.6,Amino Acids
+Amino Acids,191120_Smp_GlassVial_A,Glycine,2.49,334579360,4370243,198035536,-1.8,Amino Acids
+Amino Acids,191120_Smp_GlassVial_B,Glycine,2.49,201783888,1049015,116290504,-1.2,Amino Acids
+Amino Acids,191120_Smp_GlassVial_C,Glycine,2.48,196670336,1093992,103259744,-1.3,Amino Acids
+Amino Acids,191120_Smp_0uM_GlassBSA-Vial_A,Glycine,2.49,334171488,1316845,194288832,-1.7,Amino Acids
+Amino Acids,191120_Smp_0-5uM_GlassBSA-Vial_A,Glycine,2.48,537673792,1871421,293505632,-1.5,Amino Acids
+Amino Acids,191120_Smp_1uM_GlassBSA-Vial_A,Glycine,2.49,654695424,5247569,348889120,-1.9,Amino Acids
+Amino Acids,191120_Smp_2-5uM_GlassBSA-Vial_A,Glycine,2.48,1147280512,8837400,541643200,-2.1,Amino Acids
+Amino Acids,191120_Blk_GlassBlk_Omnipore,Glycine,2.48,121161488,1501227,65254096,-1.2,Amino Acids
+Amino Acids,191120_Smp_GlassOmnipore_A,Glycine,2.48,205588416,2702126,129820712,-1.4,Amino Acids
+Amino Acids,191120_Smp_GlassOmnipore_B,Glycine,2.48,196824432,1836703,115472480,-1.4,Amino Acids
+Amino Acids,191120_Smp_GlassOmnipore_C,Glycine,2.48,380788032,2131312,205707728,-1.5,Amino Acids
+Amino Acids,191120_Smp_0uM_GlassBSA-Omnipore_A,Glycine,2.49,182040320,1601745,97322704,-1,Amino Acids
+Amino Acids,191120_Smp_0-5uM_GlassBSA-Omnipore_A,Glycine,2.48,358210272,2752424,186555792,-1.4,Amino Acids
+Amino Acids,191120_Smp_1uM_GlassBSA-Omnipore_A,Glycine,2.49,542954048,3802639,289574368,-1.4,Amino Acids
+Amino Acids,191120_Smp_2-5uM_GlassBSA-Omnipore_A,Glycine,2.48,947434816,9204074,459395808,-1.7,Amino Acids
+Amino Acids,191120_Blk_GlassBlk_GF75,Glycine,2.48,37588552,366679,22545418,-1.3,Amino Acids
+Amino Acids,191120_Smp_GlassGF75_A,Glycine,2.49,143626960,1507710,100089640,-1.2,Amino Acids
+Amino Acids,191120_Smp_GlassGF75_B,Glycine,2.48,175729424,885049,107253456,-1.2,Amino Acids
+Amino Acids,191120_Smp_GlassGF75_C,Glycine,2.48,156956304,1644311,96611896,-1.3,Amino Acids
+Amino Acids,191120_Smp_0uM_GlassBSA-GF75_A,Glycine,2.49,149257024,1470105,91546232,-1.3,Amino Acids
+Amino Acids,191120_Smp_0-5uM_GlassBSA-GF75_A,Glycine,2.48,334481376,2321361,205316736,-1.4,Amino Acids
+Amino Acids,191120_Smp_1uM_GlassBSA-GF75_A,Glycine,2.48,495410272,1861604,289519648,-1.8,Amino Acids
+Amino Acids,191120_Smp_2-5uM_GlassBSA-GF75_A,Glycine,2.48,919544448,10474685,468566272,-2.2,Amino Acids
+Amino Acids,191120_Blk_GlassBlk_Durapore,Aspartic Acid,2.51,4178547,0,1564895,-0.8,Amino Acids
+Amino Acids,191120_Smp_GlassDurapore_A,Aspartic Acid,2.52,373584896,6746285,137536256,-0.9,Amino Acids
+Amino Acids,191120_Smp_GlassDurapore_B,Aspartic Acid,2.53,312682336,13433989,125559520,-1.1,Amino Acids
+Amino Acids,191120_Smp_GlassDurapore_C,Aspartic Acid,2.52,331826080,6850732,121245128,-1.2,Amino Acids
+Amino Acids,191120_Smp_0uM_GlassBSA-Durapore_A,Aspartic Acid,2.52,365987936,5770296,141106880,-0.9,Amino Acids
+Amino Acids,191120_Smp_0-5uM_GlassBSA-Durapore_A,Aspartic Acid,2.52,448773152,6926825,166386320,-1.2,Amino Acids
+Amino Acids,191120_Smp_1uM_GlassBSA-Durapore_A,Aspartic Acid,2.51,580645440,22817528,214907792,-1.1,Amino Acids
+Amino Acids,191120_Smp_2-5uM_GlassBSA-Durapore_A,Aspartic Acid,2.5,934965184,35266040,317607744,-1.1,Amino Acids
+Amino Acids,191120_Blk_GlassBlk_Vial,Aspartic Acid,2.51,2597142,0,1040553,-0.6,Amino Acids
+Amino Acids,191120_Smp_GlassVial_A,Aspartic Acid,2.53,315876704,5553968,127635696,-1.2,Amino Acids
+Amino Acids,191120_Smp_GlassVial_B,Aspartic Acid,2.52,331447840,7450816,138266912,-0.7,Amino Acids
+Amino Acids,191120_Smp_GlassVial_C,Aspartic Acid,2.51,333829888,14968864,134398496,-0.8,Amino Acids
+Amino Acids,191120_Smp_0uM_GlassBSA-Vial_A,Aspartic Acid,2.53,323095264,1691110,134357104,-0.9,Amino Acids
+Amino Acids,191120_Smp_0-5uM_GlassBSA-Vial_A,Aspartic Acid,2.52,455234080,9666321,182292704,-0.9,Amino Acids
+Amino Acids,191120_Smp_1uM_GlassBSA-Vial_A,Aspartic Acid,2.52,516175072,11872819,199598896,-1.2,Amino Acids
+Amino Acids,191120_Smp_2-5uM_GlassBSA-Vial_A,Aspartic Acid,2.49,846089280,63951268,247519920,-1.3,Amino Acids
+Amino Acids,191120_Blk_GlassBlk_Omnipore,Aspartic Acid,2.51,5006013,0,1892924,-0.7,Amino Acids
+Amino Acids,191120_Smp_GlassOmnipore_A,Aspartic Acid,2.52,399420352,9379156,164901904,-1.3,Amino Acids
+Amino Acids,191120_Smp_GlassOmnipore_B,Aspartic Acid,2.52,364545984,6889282,151437824,-1.2,Amino Acids
+Amino Acids,191120_Smp_GlassOmnipore_C,Aspartic Acid,2.51,266039344,9817902,91116832,-1.1,Amino Acids
+Amino Acids,191120_Smp_0uM_GlassBSA-Omnipore_A,Aspartic Acid,2.52,363948160,10387573,149260960,-0.9,Amino Acids
+Amino Acids,191120_Smp_0-5uM_GlassBSA-Omnipore_A,Aspartic Acid,2.52,473109408,18493012,191353776,-1.2,Amino Acids
+Amino Acids,191120_Smp_1uM_GlassBSA-Omnipore_A,Aspartic Acid,2.51,640188416,16086959,233907984,-1.1,Amino Acids
+Amino Acids,191120_Smp_2-5uM_GlassBSA-Omnipore_A,Aspartic Acid,2.51,920298048,17488534,300558816,-1.4,Amino Acids
+Amino Acids,191120_Blk_GlassBlk_GF75,Aspartic Acid,2.63,3806224,0,972011,-0.9,Amino Acids
+Amino Acids,191120_Smp_GlassGF75_A,Aspartic Acid,2.63,129744528,509625,35550936,-1,Amino Acids
+Amino Acids,191120_Smp_GlassGF75_B,Aspartic Acid,2.63,167326416,0,39716000,-1,Amino Acids
+Amino Acids,191120_Smp_GlassGF75_C,Aspartic Acid,2.53,107974480,1775601,26888900,-1,Amino Acids
+Amino Acids,191120_Smp_0uM_GlassBSA-GF75_A,Aspartic Acid,2.63,135269920,2825107,30345034,-1.3,Amino Acids
+Amino Acids,191120_Smp_0-5uM_GlassBSA-GF75_A,Aspartic Acid,2.63,229501552,10326731,53131336,-1.2,Amino Acids
+Amino Acids,191120_Smp_1uM_GlassBSA-GF75_A,Aspartic Acid,2.63,372582848,17483064,88803800,-1.4,Amino Acids
+Amino Acids,191120_Smp_2-5uM_GlassBSA-GF75_A,Aspartic Acid,2.63,626956736,9097609,136383408,-1.6,Amino Acids
+Amino Acids,191120_Blk_GlassBlk_Durapore,Glutamic Acid,2.76,5102700,0,2053478,-0.7,Amino Acids
+Amino Acids,191120_Smp_GlassDurapore_A,Glutamic Acid,2.76,467854496,7209775,174494032,-0.9,Amino Acids
+Amino Acids,191120_Smp_GlassDurapore_B,Glutamic Acid,2.77,413926016,7186802,155121776,-0.8,Amino Acids
+Amino Acids,191120_Smp_GlassDurapore_C,Glutamic Acid,2.76,435604512,5126664,163949184,-0.6,Amino Acids
+Amino Acids,191120_Smp_0uM_GlassBSA-Durapore_A,Glutamic Acid,2.76,445144256,8238493,165206576,-0.7,Amino Acids
+Amino Acids,191120_Smp_0-5uM_GlassBSA-Durapore_A,Glutamic Acid,2.76,507045504,6004686,179404928,-0.8,Amino Acids
+Amino Acids,191120_Smp_1uM_GlassBSA-Durapore_A,Glutamic Acid,2.76,635497664,15886942,237032400,-0.6,Amino Acids
+Amino Acids,191120_Smp_2-5uM_GlassBSA-Durapore_A,Glutamic Acid,2.75,959337280,26771258,368724000,-0.7,Amino Acids
+Amino Acids,191120_Blk_GlassBlk_Vial,Glutamic Acid,2.75,1778593,0,709534,-0.4,Amino Acids
+Amino Acids,191120_Smp_GlassVial_A,Glutamic Acid,2.77,459483584,4541091,175859408,-1,Amino Acids
+Amino Acids,191120_Smp_GlassVial_B,Glutamic Acid,2.76,483635264,6367767,188853120,-0.5,Amino Acids
+Amino Acids,191120_Smp_GlassVial_C,Glutamic Acid,2.76,490313824,9580175,186406528,-0.5,Amino Acids
+Amino Acids,191120_Smp_0uM_GlassBSA-Vial_A,Glutamic Acid,2.77,467049952,3303279,174228240,-0.8,Amino Acids
+Amino Acids,191120_Smp_0-5uM_GlassBSA-Vial_A,Glutamic Acid,2.76,597744384,0,231267568,-0.8,Amino Acids
+Amino Acids,191120_Smp_1uM_GlassBSA-Vial_A,Glutamic Acid,2.76,626711808,12873055,252615712,-1.2,Amino Acids
+Amino Acids,191120_Smp_2-5uM_GlassBSA-Vial_A,Glutamic Acid,2.75,973247040,19806854,352553472,-1.2,Amino Acids
+Amino Acids,191120_Blk_GlassBlk_Omnipore,Glutamic Acid,2.76,8549041,0,3251551,-0.3,Amino Acids
+Amino Acids,191120_Smp_GlassOmnipore_A,Glutamic Acid,2.77,562030208,11706574,203796992,-0.7,Amino Acids
+Amino Acids,191120_Smp_GlassOmnipore_B,Glutamic Acid,2.76,512918816,3145136,205368480,-0.7,Amino Acids
+Amino Acids,191120_Smp_GlassOmnipore_C,Glutamic Acid,2.76,334625216,9259972,122571744,-0.5,Amino Acids
+Amino Acids,191120_Smp_0uM_GlassBSA-Omnipore_A,Glutamic Acid,2.76,519275488,8403622,192159632,-0.3,Amino Acids
+Amino Acids,191120_Smp_0-5uM_GlassBSA-Omnipore_A,Glutamic Acid,2.76,626779008,11391236,245171888,-0.6,Amino Acids
+Amino Acids,191120_Smp_1uM_GlassBSA-Omnipore_A,Glutamic Acid,2.76,779110720,6143706,309123104,-0.6,Amino Acids
+Amino Acids,191120_Smp_2-5uM_GlassBSA-Omnipore_A,Glutamic Acid,2.75,1001317440,13707981,388284384,-0.9,Amino Acids
+Amino Acids,191120_Blk_GlassBlk_GF75,Glutamic Acid,2.86,4372838,0,1223205,-0.6,Amino Acids
+Amino Acids,191120_Smp_GlassGF75_A,Glutamic Acid,2.86,175570496,0,57335408,-0.1,Amino Acids
+Amino Acids,191120_Smp_GlassGF75_B,Glutamic Acid,2.87,230108064,1106599,61411464,-0.2,Amino Acids
+Amino Acids,191120_Smp_GlassGF75_C,Glutamic Acid,2.77,110861216,1459046,28391378,-0.1,Amino Acids
+Amino Acids,191120_Smp_0uM_GlassBSA-GF75_A,Glutamic Acid,2.86,175162208,301771,48609180,-0.2,Amino Acids
+Amino Acids,191120_Smp_0-5uM_GlassBSA-GF75_A,Glutamic Acid,2.86,262589344,1717803,67911000,-0.3,Amino Acids
+Amino Acids,191120_Smp_1uM_GlassBSA-GF75_A,Glutamic Acid,2.77,416671424,3272533,107568168,-0.3,Amino Acids
+Amino Acids,191120_Smp_2-5uM_GlassBSA-GF75_A,Glutamic Acid,2.86,633232512,18824172,154533440,-0.7,Amino Acids
+Amino Acids,191120_Blk_GlassBlk_Durapore,Threonine,3.06,2678432,0,1591878,-0.7,Amino Acids
+Amino Acids,191120_Smp_GlassDurapore_A,Threonine,3.06,291563840,3735021,174610096,-1.1,Amino Acids
+Amino Acids,191120_Smp_GlassDurapore_B,Threonine,3.06,262287488,3519261,174489776,-1.2,Amino Acids
+Amino Acids,191120_Smp_GlassDurapore_C,Threonine,3.06,264315888,2654003,162580816,-1.1,Amino Acids
+Amino Acids,191120_Smp_0uM_GlassBSA-Durapore_A,Threonine,3.06,279735808,2348697,182408528,-0.9,Amino Acids
+Amino Acids,191120_Smp_0-5uM_GlassBSA-Durapore_A,Threonine,3.06,434965440,3856289,278105472,-1.1,Amino Acids
+Amino Acids,191120_Smp_1uM_GlassBSA-Durapore_A,Threonine,3.06,587411264,5490386,359537152,-1,Amino Acids
+Amino Acids,191120_Smp_2-5uM_GlassBSA-Durapore_A,Threonine,3.05,1129357568,12451437,640225792,-1.5,Amino Acids
+Amino Acids,191120_Blk_GlassBlk_Vial,Threonine,3.05,2521349,0,1646075,-1,Amino Acids
+Amino Acids,191120_Smp_GlassVial_A,Threonine,3.06,266579360,1509345,172713120,-1.1,Amino Acids
+Amino Acids,191120_Smp_GlassVial_B,Threonine,3.06,303557376,2130872,200215792,-0.9,Amino Acids
+Amino Acids,191120_Smp_GlassVial_C,Threonine,3.06,301383488,2503732,179331728,-1,Amino Acids
+Amino Acids,191120_Smp_0uM_GlassBSA-Vial_A,Threonine,3.06,267043744,1147179,175872656,-1,Amino Acids
+Amino Acids,191120_Smp_0-5uM_GlassBSA-Vial_A,Threonine,3.06,447294592,5539985,280091712,-1.2,Amino Acids
+Amino Acids,191120_Smp_1uM_GlassBSA-Vial_A,Threonine,3.06,539736448,2987790,333890144,-1.3,Amino Acids
+Amino Acids,191120_Smp_2-5uM_GlassBSA-Vial_A,Threonine,3.06,1040134720,4896286,590912896,-1.5,Amino Acids
+Amino Acids,191120_Blk_GlassBlk_Omnipore,Threonine,3.06,4856571,0,3068002,-0.5,Amino Acids
+Amino Acids,191120_Smp_GlassOmnipore_A,Threonine,3.06,308838240,1151451,194175728,-1,Amino Acids
+Amino Acids,191120_Smp_GlassOmnipore_B,Threonine,3.06,282382272,3346341,177812496,-1,Amino Acids
+Amino Acids,191120_Smp_GlassOmnipore_C,Threonine,3.06,294637408,2288327,185752400,-1.2,Amino Acids
+Amino Acids,191120_Smp_0uM_GlassBSA-Omnipore_A,Threonine,3.06,286043680,1953345,180013760,-1,Amino Acids
+Amino Acids,191120_Smp_0-5uM_GlassBSA-Omnipore_A,Threonine,3.06,461681824,1648778,272018976,-1.4,Amino Acids
+Amino Acids,191120_Smp_1uM_GlassBSA-Omnipore_A,Threonine,3.06,692561408,2899385,413134912,-1.8,Amino Acids
+Amino Acids,191120_Smp_2-5uM_GlassBSA-Omnipore_A,Threonine,3.06,1134975872,7904415,677068160,-2.1,Amino Acids
+Amino Acids,191120_Blk_GlassBlk_GF75,Threonine,3.06,4816286,0,3284784,-0.7,Amino Acids
+Amino Acids,191120_Smp_GlassGF75_A,Threonine,3.07,220451552,2769885,139822256,-1.2,Amino Acids
+Amino Acids,191120_Smp_GlassGF75_B,Threonine,3.06,294510784,1860414,203944576,-1.5,Amino Acids
+Amino Acids,191120_Smp_GlassGF75_C,Threonine,3.06,257688608,3233936,162317440,-1.5,Amino Acids
+Amino Acids,191120_Smp_0uM_GlassBSA-GF75_A,Threonine,3.06,237206000,1803044,165537344,-1.4,Amino Acids
+Amino Acids,191120_Smp_0-5uM_GlassBSA-GF75_A,Threonine,3.06,430588416,4620456,276851808,-1.6,Amino Acids
+Amino Acids,191120_Smp_1uM_GlassBSA-GF75_A,Threonine,3.06,619275520,4056057,398711168,-1.8,Amino Acids
+Amino Acids,191120_Smp_2-5uM_GlassBSA-GF75_A,Threonine,3.06,1093825664,14001951,647022784,-2.5,Amino Acids
+Amino Acids,191120_Blk_GlassBlk_Durapore,Alanine,3.42,9615548,0,6109739,-1.1,Amino Acids
+Amino Acids,191120_Smp_GlassDurapore_A,Alanine,3.42,537148288,5134982,324358208,-1.6,Amino Acids
+Amino Acids,191120_Smp_GlassDurapore_B,Alanine,3.42,439343520,4314280,280487584,-1.8,Amino Acids
+Amino Acids,191120_Smp_GlassDurapore_C,Alanine,3.42,485315840,2751988,296116032,-1.7,Amino Acids
+Amino Acids,191120_Smp_0uM_GlassBSA-Durapore_A,Alanine,3.42,490079008,3941046,313090432,-1.3,Amino Acids
+Amino Acids,191120_Smp_0-5uM_GlassBSA-Durapore_A,Alanine,3.42,634861248,3838454,404254080,-1.6,Amino Acids
+Amino Acids,191120_Smp_1uM_GlassBSA-Durapore_A,Alanine,3.41,866805568,3976667,543852928,-1.9,Amino Acids
+Amino Acids,191120_Smp_2-5uM_GlassBSA-Durapore_A,Alanine,3.41,1408571520,7632865,830628800,-2,Amino Acids
+Amino Acids,191120_Blk_GlassBlk_Vial,Alanine,3.41,5715244,0,3373938,-1.1,Amino Acids
+Amino Acids,191120_Smp_GlassVial_A,Alanine,3.42,461010080,2452541,297722464,-1.8,Amino Acids
+Amino Acids,191120_Smp_GlassVial_B,Alanine,3.42,489460928,6815892,309361792,-1.5,Amino Acids
+Amino Acids,191120_Smp_GlassVial_C,Alanine,3.42,504479776,2801112,334425312,-1.5,Amino Acids
+Amino Acids,191120_Smp_0uM_GlassBSA-Vial_A,Alanine,3.42,464375936,5540578,285238720,-1.5,Amino Acids
+Amino Acids,191120_Smp_0-5uM_GlassBSA-Vial_A,Alanine,3.42,663643584,7023829,421602336,-1.5,Amino Acids
+Amino Acids,191120_Smp_1uM_GlassBSA-Vial_A,Alanine,3.42,786399872,10098190,522089728,-1.7,Amino Acids
+Amino Acids,191120_Smp_2-5uM_GlassBSA-Vial_A,Alanine,3.42,1385123584,7308912,810628032,-2.2,Amino Acids
+Amino Acids,191120_Blk_GlassBlk_Omnipore,Alanine,3.42,11315708,114262,6966266,-0.9,Amino Acids
+Amino Acids,191120_Smp_GlassOmnipore_A,Alanine,3.42,556614592,6909936,363093408,-1.7,Amino Acids
+Amino Acids,191120_Smp_GlassOmnipore_B,Alanine,3.42,488934656,4030635,298460672,-1.7,Amino Acids
+Amino Acids,191120_Smp_GlassOmnipore_C,Alanine,3.42,588418176,2148353,346675520,-1.6,Amino Acids
+Amino Acids,191120_Smp_0uM_GlassBSA-Omnipore_A,Alanine,3.42,491348768,2807893,316986944,-1.3,Amino Acids
+Amino Acids,191120_Smp_0-5uM_GlassBSA-Omnipore_A,Alanine,3.42,691587712,5942055,415195520,-1.6,Amino Acids
+Amino Acids,191120_Smp_1uM_GlassBSA-Omnipore_A,Alanine,3.42,942768640,6125908,573090944,-1.8,Amino Acids
+Amino Acids,191120_Smp_2-5uM_GlassBSA-Omnipore_A,Alanine,3.42,1310825216,13063105,762061632,-2,Amino Acids
+Amino Acids,191120_Blk_GlassBlk_GF75,Alanine,3.42,8825949,0,5557501,-1.1,Amino Acids
+Amino Acids,191120_Smp_GlassGF75_A,Alanine,3.42,352454912,4135639,231943248,-1.4,Amino Acids
+Amino Acids,191120_Smp_GlassGF75_B,Alanine,3.42,434727328,2559970,288099360,-1.3,Amino Acids
+Amino Acids,191120_Smp_GlassGF75_C,Alanine,3.42,404424256,1226000,258755840,-1.3,Amino Acids
+Amino Acids,191120_Smp_0uM_GlassBSA-GF75_A,Alanine,3.42,370397824,2669307,245104368,-1.5,Amino Acids
+Amino Acids,191120_Smp_0-5uM_GlassBSA-GF75_A,Alanine,3.42,559208448,6009132,352241280,-1.8,Amino Acids
+Amino Acids,191120_Smp_1uM_GlassBSA-GF75_A,Alanine,3.42,784405760,4533638,511119968,-1.8,Amino Acids
+Amino Acids,191120_Smp_2-5uM_GlassBSA-GF75_A,Alanine,3.42,1140741888,10058355,681940416,-2.4,Amino Acids
+Amino Acids,191120_Blk_GlassBlk_Durapore,Proline,3.77,2044920,0,1684259,-1.1,Amino Acids
+Amino Acids,191120_Smp_GlassDurapore_A,Proline,3.77,293156160,1096195,250246736,-1.9,Amino Acids
+Amino Acids,191120_Smp_GlassDurapore_B,Proline,3.77,240462080,1006430,193159360,-1.6,Amino Acids
+Amino Acids,191120_Smp_GlassDurapore_C,Proline,3.77,258461296,2014071,210703488,-1.4,Amino Acids
+Amino Acids,191120_Smp_0uM_GlassBSA-Durapore_A,Proline,3.77,273428704,903866,235179632,-1.2,Amino Acids
+Amino Acids,191120_Smp_0-5uM_GlassBSA-Durapore_A,Proline,3.77,422096672,5969175,355650528,-1.8,Amino Acids
+Amino Acids,191120_Smp_1uM_GlassBSA-Durapore_A,Proline,3.77,593928960,4064687,470732800,-1.8,Amino Acids
+Amino Acids,191120_Smp_2-5uM_GlassBSA-Durapore_A,Proline,3.77,1072287936,4261929,823685568,-1.8,Amino Acids
+Amino Acids,191120_Blk_GlassBlk_Vial,Proline,3.77,1841113,0,1477938,-1,Amino Acids
+Amino Acids,191120_Smp_GlassVial_A,Proline,3.77,249827168,901676,201045312,-1.8,Amino Acids
+Amino Acids,191120_Smp_GlassVial_B,Proline,3.77,262376896,2633902,203072112,-1.4,Amino Acids
+Amino Acids,191120_Smp_GlassVial_C,Proline,3.77,277901024,2718912,221616880,-1.3,Amino Acids
+Amino Acids,191120_Smp_0uM_GlassBSA-Vial_A,Proline,3.77,252711568,1499842,204216384,-1.4,Amino Acids
+Amino Acids,191120_Smp_0-5uM_GlassBSA-Vial_A,Proline,3.77,435397728,2043527,356990400,-1.9,Amino Acids
+Amino Acids,191120_Smp_1uM_GlassBSA-Vial_A,Proline,3.77,553111360,2676512,419566048,-1.9,Amino Acids
+Amino Acids,191120_Smp_2-5uM_GlassBSA-Vial_A,Proline,3.77,1058473664,12709514,791527552,-2.2,Amino Acids
+Amino Acids,191120_Blk_GlassBlk_Omnipore,Proline,3.77,3353214,0,2731169,-1,Amino Acids
+Amino Acids,191120_Smp_GlassOmnipore_A,Proline,3.77,297996992,2579952,236955040,-1.4,Amino Acids
+Amino Acids,191120_Smp_GlassOmnipore_B,Proline,3.77,262666224,956358,209484128,-1.1,Amino Acids
+Amino Acids,191120_Smp_GlassOmnipore_C,Proline,3.77,273390496,1051997,218127616,-1.3,Amino Acids
+Amino Acids,191120_Smp_0uM_GlassBSA-Omnipore_A,Proline,3.77,256976112,2473108,205710416,-1,Amino Acids
+Amino Acids,191120_Smp_0-5uM_GlassBSA-Omnipore_A,Proline,3.77,451032704,6310737,361981280,-1.3,Amino Acids
+Amino Acids,191120_Smp_1uM_GlassBSA-Omnipore_A,Proline,3.77,663356672,4367210,525178176,-1.3,Amino Acids
+Amino Acids,191120_Smp_2-5uM_GlassBSA-Omnipore_A,Proline,3.77,1051555584,13451482,800609472,-1.6,Amino Acids
+Amino Acids,191120_Blk_GlassBlk_GF75,Proline,3.77,3544230,0,2756563,-1.3,Amino Acids
+Amino Acids,191120_Smp_GlassGF75_A,Proline,3.77,197617248,2579312,160966528,-1,Amino Acids
+Amino Acids,191120_Smp_GlassGF75_B,Proline,3.77,249438336,792357,204449232,-1.1,Amino Acids
+Amino Acids,191120_Smp_GlassGF75_C,Proline,3.77,225815392,1425203,178151920,-1,Amino Acids
+Amino Acids,191120_Smp_0uM_GlassBSA-GF75_A,Proline,3.77,208933760,749430,167898272,-1.1,Amino Acids
+Amino Acids,191120_Smp_0-5uM_GlassBSA-GF75_A,Proline,3.77,384661760,2997395,309865088,-1.3,Amino Acids
+Amino Acids,191120_Smp_1uM_GlassBSA-GF75_A,Proline,3.77,560908800,1763092,462666272,-1.8,Amino Acids
+Amino Acids,191120_Smp_2-5uM_GlassBSA-GF75_A,Proline,3.77,972641792,4079124,742654784,-2.2,Amino Acids
+Amino Acids,191120_Blk_GlassBlk_Durapore,Lysine,4.11,5778232,0,5159759,-0.3,Amino Acids
+Amino Acids,191120_Smp_GlassDurapore_A,Lysine,4.11,1214349696,15846568,1158981888,-1.1,Amino Acids
+Amino Acids,191120_Smp_GlassDurapore_B,Lysine,4.11,993965696,8024799,1042683968,-0.9,Amino Acids
+Amino Acids,191120_Smp_GlassDurapore_C,Lysine,4.1,1047995584,15741672,1088661888,-1,Amino Acids
+Amino Acids,191120_Smp_0uM_GlassBSA-Durapore_A,Lysine,4.1,1222637568,9142907,1241424768,-1,Amino Acids
+Amino Acids,191120_Smp_0-5uM_GlassBSA-Durapore_A,Lysine,4.1,1337832192,11566598,1279788288,-0.9,Amino Acids
+Amino Acids,191120_Smp_1uM_GlassBSA-Durapore_A,Lysine,4.1,1721773952,21086218,1521279232,-1.1,Amino Acids
+Amino Acids,191120_Smp_2-5uM_GlassBSA-Durapore_A,Lysine,4.1,2592026624,14148120,2303269376,-0.8,Amino Acids
+Amino Acids,191120_Blk_GlassBlk_Vial,Lysine,4.1,4738277,0,4867008,-0.6,Amino Acids
+Amino Acids,191120_Smp_GlassVial_A,Lysine,4.11,1072552128,561182,1022889088,-1.2,Amino Acids
+Amino Acids,191120_Smp_GlassVial_B,Lysine,4.11,1113409664,2604159,1127351808,-0.8,Amino Acids
+Amino Acids,191120_Smp_GlassVial_C,Lysine,4.1,1139237760,16107708,1122273024,-0.9,Amino Acids
+Amino Acids,191120_Smp_0uM_GlassBSA-Vial_A,Lysine,4.11,1140250240,14268003,1094505088,-1,Amino Acids
+Amino Acids,191120_Smp_0-5uM_GlassBSA-Vial_A,Lysine,4.11,1430386688,14858568,1367407488,-1.1,Amino Acids
+Amino Acids,191120_Smp_1uM_GlassBSA-Vial_A,Lysine,4.1,1625281280,24266376,1628494464,-1.3,Amino Acids
+Amino Acids,191120_Smp_2-5uM_GlassBSA-Vial_A,Lysine,4.1,2768711680,6308126,2657541632,-1.1,Amino Acids
+Amino Acids,191120_Blk_GlassBlk_Omnipore,Lysine,4.1,6735565,0,7285184,-0.4,Amino Acids
+Amino Acids,191120_Smp_GlassOmnipore_A,Lysine,4.1,1275483136,5969028,1179870720,-0.8,Amino Acids
+Amino Acids,191120_Smp_GlassOmnipore_B,Lysine,4.1,1158253952,11296271,1168971776,-0.5,Amino Acids
+Amino Acids,191120_Smp_GlassOmnipore_C,Lysine,4.11,1002108864,6593029,897792704,-0.6,Amino Acids
+Amino Acids,191120_Smp_0uM_GlassBSA-Omnipore_A,Lysine,4.1,1159824000,3772769,1127587712,-0.5,Amino Acids
+Amino Acids,191120_Smp_0-5uM_GlassBSA-Omnipore_A,Lysine,4.11,1489703296,7620305,1446290816,-0.6,Amino Acids
+Amino Acids,191120_Smp_1uM_GlassBSA-Omnipore_A,Lysine,4.11,1971256576,22187572,1773623552,-0.6,Amino Acids
+Amino Acids,191120_Smp_2-5uM_GlassBSA-Omnipore_A,Lysine,4.1,2494182912,9702910,2390523392,-0.7,Amino Acids
+Amino Acids,191120_Blk_GlassBlk_GF75,Lysine,4.1,13788815,0,12281581,-0.7,Amino Acids
+Amino Acids,191120_Smp_GlassGF75_A,Lysine,4.1,873972992,9131644,801783104,-0.4,Amino Acids
+Amino Acids,191120_Smp_GlassGF75_B,Lysine,4.11,933010816,0,851506240,-0.4,Amino Acids
+Amino Acids,191120_Smp_GlassGF75_C,Lysine,4.11,950395648,0,951873664,-0.5,Amino Acids
+Amino Acids,191120_Smp_0uM_GlassBSA-GF75_A,Lysine,4.1,887536704,0,879170112,-0.4,Amino Acids
+Amino Acids,191120_Smp_0-5uM_GlassBSA-GF75_A,Lysine,4.1,1185186944,3629151,1147562880,-0.6,Amino Acids
+Amino Acids,191120_Smp_1uM_GlassBSA-GF75_A,Lysine,4.1,1615151488,9971420,1550707200,-1,Amino Acids
+Amino Acids,191120_Smp_2-5uM_GlassBSA-GF75_A,Lysine,4.1,2041506944,16117155,1911611264,-0.9,Amino Acids
+Amino Acids,191120_Blk_GlassBlk_Durapore,Tyrosine,4.44,803482,0,700572,0,Amino Acids
+Amino Acids,191120_Smp_GlassDurapore_A,Tyrosine,4.44,43152856,498368,34979324,-0.2,Amino Acids
+Amino Acids,191120_Smp_GlassDurapore_B,Tyrosine,4.45,45348252,116861,40439760,-0.4,Amino Acids
+Amino Acids,191120_Smp_GlassDurapore_C,Tyrosine,4.44,43654168,231198,37046532,-0.1,Amino Acids
+Amino Acids,191120_Smp_0uM_GlassBSA-Durapore_A,Tyrosine,4.44,40465788,220643,33445546,-0.1,Amino Acids
+Amino Acids,191120_Smp_0-5uM_GlassBSA-Durapore_A,Tyrosine,4.44,230414480,488876,192709216,-0.8,Amino Acids
+Amino Acids,191120_Smp_1uM_GlassBSA-Durapore_A,Tyrosine,4.44,382438688,1934134,316876256,-1,Amino Acids
+Amino Acids,191120_Smp_2-5uM_GlassBSA-Durapore_A,Tyrosine,4.44,888736896,2127802,693226496,-1.3,Amino Acids
+Amino Acids,191120_Blk_GlassBlk_Vial,Tyrosine,4.44,1131556,0,1027622,-0.4,Amino Acids
+Amino Acids,191120_Smp_GlassVial_A,Tyrosine,4.44,78222728,271675,68019264,-0.3,Amino Acids
+Amino Acids,191120_Smp_GlassVial_B,Tyrosine,4.44,124661744,0,97854304,0.2,Amino Acids
+Amino Acids,191120_Smp_GlassVial_C,Tyrosine,4.44,129027336,1211003,108971432,-0.4,Amino Acids
+Amino Acids,191120_Smp_0uM_GlassBSA-Vial_A,Tyrosine,4.45,76464080,0,64322864,0.1,Amino Acids
+Amino Acids,191120_Smp_0-5uM_GlassBSA-Vial_A,Tyrosine,4.44,255587952,1421214,234433024,-0.8,Amino Acids
+Amino Acids,191120_Smp_1uM_GlassBSA-Vial_A,Tyrosine,4.44,401090688,2002636,379452192,-0.5,Amino Acids
+Amino Acids,191120_Smp_2-5uM_GlassBSA-Vial_A,Tyrosine,4.44,808984960,5793555,674422336,-1,Amino Acids
+Amino Acids,191120_Blk_GlassBlk_Omnipore,Tyrosine,4.44,463802,0,402536,0,Amino Acids
+Amino Acids,191120_Smp_GlassOmnipore_A,Tyrosine,4.44,2496431,0,2121759,-0.5,Amino Acids
+Amino Acids,191120_Smp_GlassOmnipore_B,Tyrosine,4.44,1182515,0,972487,-0.2,Amino Acids
+Amino Acids,191120_Smp_GlassOmnipore_C,Tyrosine,4.44,49412556,147927,44735688,-0.3,Amino Acids
+Amino Acids,191120_Smp_0uM_GlassBSA-Omnipore_A,Tyrosine,4.44,2275359,0,2105122,0.1,Amino Acids
+Amino Acids,191120_Smp_0-5uM_GlassBSA-Omnipore_A,Tyrosine,4.44,191744800,1888997,164953584,-0.8,Amino Acids
+Amino Acids,191120_Smp_1uM_GlassBSA-Omnipore_A,Tyrosine,4.44,367807296,1644620,299204576,-1.1,Amino Acids
+Amino Acids,191120_Smp_2-5uM_GlassBSA-Omnipore_A,Tyrosine,4.45,816850944,7522978,607414592,-1.6,Amino Acids
+Amino Acids,191120_Blk_GlassBlk_GF75,Tyrosine,4.44,455174,0,381380,-0.4,Amino Acids
+Amino Acids,191120_Smp_GlassGF75_A,Tyrosine,4.44,3988395,0,3243838,-0.2,Amino Acids
+Amino Acids,191120_Smp_GlassGF75_B,Tyrosine,4.44,8216337,0,6514951,-0.2,Amino Acids
+Amino Acids,191120_Smp_GlassGF75_C,Tyrosine,4.44,10555499,0,9141335,-0.4,Amino Acids
+Amino Acids,191120_Smp_0uM_GlassBSA-GF75_A,Tyrosine,4.44,4336268,0,3845400,-0.1,Amino Acids
+Amino Acids,191120_Smp_0-5uM_GlassBSA-GF75_A,Tyrosine,4.44,193094096,1397464,167068784,-0.9,Amino Acids
+Amino Acids,191120_Smp_1uM_GlassBSA-GF75_A,Tyrosine,4.44,360740512,858357,305689600,-1.7,Amino Acids
+Amino Acids,191120_Smp_2-5uM_GlassBSA-GF75_A,Tyrosine,4.44,827370944,2456409,710312768,-2,Amino Acids
+Amino Acids,191120_Blk_GlassBlk_Durapore,Methionine,4.56,0,0,0,#N/A,Amino Acids
+Amino Acids,191120_Smp_GlassDurapore_A,Methionine,4.58,1039881,0,878546,-0.7,Amino Acids
+Amino Acids,191120_Smp_GlassDurapore_B,Methionine,4.58,2814028,0,2388828,-0.9,Amino Acids
+Amino Acids,191120_Smp_GlassDurapore_C,Methionine,4.58,2135392,0,2185190,-0.6,Amino Acids
+Amino Acids,191120_Smp_0uM_GlassBSA-Durapore_A,Methionine,4.58,958725,0,913396,-0.5,Amino Acids
+Amino Acids,191120_Smp_0-5uM_GlassBSA-Durapore_A,Methionine,4.58,232657904,1676585,186513440,-0.6,Amino Acids
+Amino Acids,191120_Smp_1uM_GlassBSA-Durapore_A,Methionine,4.58,442996256,5151149,346913088,-0.7,Amino Acids
+Amino Acids,191120_Smp_2-5uM_GlassBSA-Durapore_A,Methionine,4.58,1082287488,6225609,930687936,-0.8,Amino Acids
+Amino Acids,191120_Blk_GlassBlk_Vial,Methionine,4.58,0,0,0,#N/A,Amino Acids
+Amino Acids,191120_Smp_GlassVial_A,Methionine,4.58,1154339,0,942819,-0.2,Amino Acids
+Amino Acids,191120_Smp_GlassVial_B,Methionine,4.58,6591518,15459,5456144,0.4,Amino Acids
+Amino Acids,191120_Smp_GlassVial_C,Methionine,4.58,2082464,0,1709301,0.2,Amino Acids
+Amino Acids,191120_Smp_0uM_GlassBSA-Vial_A,Methionine,4.59,1223316,0,1071452,0.2,Amino Acids
+Amino Acids,191120_Smp_0-5uM_GlassBSA-Vial_A,Methionine,4.58,232431488,2562447,190257056,-0.7,Amino Acids
+Amino Acids,191120_Smp_1uM_GlassBSA-Vial_A,Methionine,4.58,389945504,4441702,314793568,-1,Amino Acids
+Amino Acids,191120_Smp_2-5uM_GlassBSA-Vial_A,Methionine,4.58,1021237440,2819791,846230016,-1.3,Amino Acids
+Amino Acids,191120_Blk_GlassBlk_Omnipore,Methionine,4.58,0,0,0,#N/A,Amino Acids
+Amino Acids,191120_Smp_GlassOmnipore_A,Methionine,4.58,75747,0,78921,-0.3,Amino Acids
+Amino Acids,191120_Smp_GlassOmnipore_B,Methionine,4.58,0,0,0,#N/A,Amino Acids
+Amino Acids,191120_Smp_GlassOmnipore_C,Methionine,4.58,10787372,0,8857198,0.1,Amino Acids
+Amino Acids,191120_Smp_0uM_GlassBSA-Omnipore_A,Methionine,4.58,0,0,0,#N/A,Amino Acids
+Amino Acids,191120_Smp_0-5uM_GlassBSA-Omnipore_A,Methionine,4.58,239886768,1200025,205297040,-0.4,Amino Acids
+Amino Acids,191120_Smp_1uM_GlassBSA-Omnipore_A,Methionine,4.58,472140736,4675078,399513504,-0.5,Amino Acids
+Amino Acids,191120_Smp_2-5uM_GlassBSA-Omnipore_A,Methionine,4.58,1034347392,7002307,811579136,-1.2,Amino Acids
+Amino Acids,191120_Blk_GlassBlk_GF75,Methionine,4.58,0,0,0,#N/A,Amino Acids
+Amino Acids,191120_Smp_GlassGF75_A,Methionine,4.58,0,0,0,#N/A,Amino Acids
+Amino Acids,191120_Smp_GlassGF75_B,Methionine,4.58,99499,0,132860,-0.5,Amino Acids
+Amino Acids,191120_Smp_GlassGF75_C,Methionine,4.59,127469,0,134337,-0.9,Amino Acids
+Amino Acids,191120_Smp_0uM_GlassBSA-GF75_A,Methionine,4.59,0,0,0,#N/A,Amino Acids
+Amino Acids,191120_Smp_0-5uM_GlassBSA-GF75_A,Methionine,4.58,230414656,1080493,183964800,-0.7,Amino Acids
+Amino Acids,191120_Smp_1uM_GlassBSA-GF75_A,Methionine,4.58,461096672,4029572,395867872,-1.8,Amino Acids
+Amino Acids,191120_Smp_2-5uM_GlassBSA-GF75_A,Methionine,4.58,1072520000,8178130,926308416,-2,Amino Acids
+Amino Acids,191120_Blk_GlassBlk_Durapore,Valine,4.64,4073189,0,3388423,-0.9,Amino Acids
+Amino Acids,191120_Smp_GlassDurapore_A,Valine,4.64,563864384,6962307,495179328,-1.5,Amino Acids
+Amino Acids,191120_Smp_GlassDurapore_B,Valine,4.65,440556768,1583825,353915200,-1.4,Amino Acids
+Amino Acids,191120_Smp_GlassDurapore_C,Valine,4.64,481420928,3313962,407781920,-1.2,Amino Acids
+Amino Acids,191120_Smp_0uM_GlassBSA-Durapore_A,Valine,4.64,536881344,1987379,471440416,-1.2,Amino Acids
+Amino Acids,191120_Smp_0-5uM_GlassBSA-Durapore_A,Valine,4.64,752815488,8452104,618990784,-1.4,Amino Acids
+Amino Acids,191120_Smp_1uM_GlassBSA-Durapore_A,Valine,4.64,1003329280,3375353,776255168,-1.4,Amino Acids
+Amino Acids,191120_Smp_2-5uM_GlassBSA-Durapore_A,Valine,4.64,1808660480,19445938,1440907264,-1.9,Amino Acids
+Amino Acids,191120_Blk_GlassBlk_Vial,Valine,4.64,2833254,0,2372115,-0.9,Amino Acids
+Amino Acids,191120_Smp_GlassVial_A,Valine,4.64,496037408,1119611,415684896,-1.6,Amino Acids
+Amino Acids,191120_Smp_GlassVial_B,Valine,4.64,516837792,3451511,440456832,-1.1,Amino Acids
+Amino Acids,191120_Smp_GlassVial_C,Valine,4.64,530725056,3058919,443695680,-1.2,Amino Acids
+Amino Acids,191120_Smp_0uM_GlassBSA-Vial_A,Valine,4.64,504201408,2541279,425549088,-1.3,Amino Acids
+Amino Acids,191120_Smp_0-5uM_GlassBSA-Vial_A,Valine,4.64,758876800,1705085,632602048,-1.4,Amino Acids
+Amino Acids,191120_Smp_1uM_GlassBSA-Vial_A,Valine,4.64,931261440,2534632,754265280,-1.5,Amino Acids
+Amino Acids,191120_Smp_2-5uM_GlassBSA-Vial_A,Valine,4.64,1668324864,6367977,1309810944,-1.7,Amino Acids
+Amino Acids,191120_Blk_GlassBlk_Omnipore,Valine,4.64,6663690,16574,5626167,-0.7,Amino Acids
+Amino Acids,191120_Smp_GlassOmnipore_A,Valine,4.64,570948672,4336434,508548064,-1.2,Amino Acids
+Amino Acids,191120_Smp_GlassOmnipore_B,Valine,4.64,515178624,5753887,424044896,-1.5,Amino Acids
+Amino Acids,191120_Smp_GlassOmnipore_C,Valine,4.64,428311904,4708435,355566112,-1.4,Amino Acids
+Amino Acids,191120_Smp_0uM_GlassBSA-Omnipore_A,Valine,4.64,523163968,4557974,426979264,-1.6,Amino Acids
+Amino Acids,191120_Smp_0-5uM_GlassBSA-Omnipore_A,Valine,4.64,816541632,6868056,675816960,-1.7,Amino Acids
+Amino Acids,191120_Smp_1uM_GlassBSA-Omnipore_A,Valine,4.64,1101552512,3380422,933785600,-1.8,Amino Acids
+Amino Acids,191120_Smp_2-5uM_GlassBSA-Omnipore_A,Valine,4.64,1752721152,12065808,1431893120,-2.2,Amino Acids
+Amino Acids,191120_Blk_GlassBlk_GF75,Valine,4.64,8220561,0,7050930,-0.6,Amino Acids
+Amino Acids,191120_Smp_GlassGF75_A,Valine,4.64,425077216,1422311,362157472,-1.5,Amino Acids
+Amino Acids,191120_Smp_GlassGF75_B,Valine,4.64,524756224,2161775,449998176,-1.8,Amino Acids
+Amino Acids,191120_Smp_GlassGF75_C,Valine,4.64,470099584,3482197,404272608,-1.9,Amino Acids
+Amino Acids,191120_Smp_0uM_GlassBSA-GF75_A,Valine,4.64,432667616,1795528,370330336,-1.7,Amino Acids
+Amino Acids,191120_Smp_0-5uM_GlassBSA-GF75_A,Valine,4.64,723783616,6008672,611293184,-1.7,Amino Acids
+Amino Acids,191120_Smp_1uM_GlassBSA-GF75_A,Valine,4.64,1017012224,2256174,856793280,-2.5,Amino Acids
+Amino Acids,191120_Smp_2-5uM_GlassBSA-GF75_A,Valine,4.64,1608930816,21770932,1289883904,-2.7,Amino Acids
+Amino Acids,191120_Blk_GlassBlk_Durapore,Isoleucine,5.24,4136350,0,3245096,-0.5,Amino Acids
+Amino Acids,191120_Smp_GlassDurapore_A,Isoleucine,5.24,257041648,1732176,206724560,-1.3,Amino Acids
+Amino Acids,191120_Smp_GlassDurapore_B,Isoleucine,5.24,213491744,1826853,173020880,-1.2,Amino Acids
+Amino Acids,191120_Smp_GlassDurapore_C,Isoleucine,5.23,220615504,558876,174491936,-1.1,Amino Acids
+Amino Acids,191120_Smp_0uM_GlassBSA-Durapore_A,Isoleucine,5.24,242264976,2889120,184081728,-1,Amino Acids
+Amino Acids,191120_Smp_0-5uM_GlassBSA-Durapore_A,Isoleucine,5.23,520115456,4893179,430755392,-1.1,Amino Acids
+Amino Acids,191120_Smp_1uM_GlassBSA-Durapore_A,Isoleucine,5.23,803303744,7519134,633149056,-1.5,Amino Acids
+Amino Acids,191120_Smp_2-5uM_GlassBSA-Durapore_A,Isoleucine,5.23,1633875200,9359853,1272567040,-1.8,Amino Acids
+Amino Acids,191120_Blk_GlassBlk_Vial,Isoleucine,5.23,2498538,0,2017191,-0.7,Amino Acids
+Amino Acids,191120_Smp_GlassVial_A,Isoleucine,5.24,208707872,2317521,164854336,-1.2,Amino Acids
+Amino Acids,191120_Smp_GlassVial_B,Isoleucine,5.24,230286736,1144973,184994256,-0.9,Amino Acids
+Amino Acids,191120_Smp_GlassVial_C,Isoleucine,5.24,232792144,782893,181687072,-0.9,Amino Acids
+Amino Acids,191120_Smp_0uM_GlassBSA-Vial_A,Isoleucine,5.24,216022304,747585,165247248,-0.7,Amino Acids
+Amino Acids,191120_Smp_0-5uM_GlassBSA-Vial_A,Isoleucine,5.23,522214848,5141505,402728960,-1.5,Amino Acids
+Amino Acids,191120_Smp_1uM_GlassBSA-Vial_A,Isoleucine,5.24,731080512,8405898,591906112,-1.6,Amino Acids
+Amino Acids,191120_Smp_2-5uM_GlassBSA-Vial_A,Isoleucine,5.24,1597931776,4191595,1264106624,-2,Amino Acids
+Amino Acids,191120_Blk_GlassBlk_Omnipore,Isoleucine,5.24,5827007,0,4665016,-1,Amino Acids
+Amino Acids,191120_Smp_GlassOmnipore_A,Isoleucine,5.23,249390304,1177483,186016144,-0.9,Amino Acids
+Amino Acids,191120_Smp_GlassOmnipore_B,Isoleucine,5.23,221217216,2053982,179061328,-0.9,Amino Acids
+Amino Acids,191120_Smp_GlassOmnipore_C,Isoleucine,5.24,188988512,1084844,154036864,-0.8,Amino Acids
+Amino Acids,191120_Smp_0uM_GlassBSA-Omnipore_A,Isoleucine,5.23,224091488,1265279,182701056,-0.6,Amino Acids
+Amino Acids,191120_Smp_0-5uM_GlassBSA-Omnipore_A,Isoleucine,5.24,520595520,3315170,411820928,-1,Amino Acids
+Amino Acids,191120_Smp_1uM_GlassBSA-Omnipore_A,Isoleucine,5.23,853361856,9456194,647544640,-1.1,Amino Acids
+Amino Acids,191120_Smp_2-5uM_GlassBSA-Omnipore_A,Isoleucine,5.24,1550451072,5211415,1187306624,-1.5,Amino Acids
+Amino Acids,191120_Blk_GlassBlk_GF75,Isoleucine,5.23,8314011,0,7094832,-0.6,Amino Acids
+Amino Acids,191120_Smp_GlassGF75_A,Isoleucine,5.24,166146784,2261602,135181056,-0.6,Amino Acids
+Amino Acids,191120_Smp_GlassGF75_B,Isoleucine,5.24,217774448,646774,172112640,-0.5,Amino Acids
+Amino Acids,191120_Smp_GlassGF75_C,Isoleucine,5.24,202022448,973540,163270928,-0.5,Amino Acids
+Amino Acids,191120_Smp_0uM_GlassBSA-GF75_A,Isoleucine,5.24,181934304,737415,147260592,-0.5,Amino Acids
+Amino Acids,191120_Smp_0-5uM_GlassBSA-GF75_A,Isoleucine,5.23,488679296,3530418,395262080,-1.1,Amino Acids
+Amino Acids,191120_Smp_1uM_GlassBSA-GF75_A,Isoleucine,5.23,764414848,7139938,605689728,-1.9,Amino Acids
+Amino Acids,191120_Smp_2-5uM_GlassBSA-GF75_A,Isoleucine,5.23,1481151232,7815738,1288059392,-1.9,Amino Acids
+Amino Acids,191120_Blk_GlassBlk_Durapore,Leucine,5.3,6819836,0,5557604,-0.6,Amino Acids
+Amino Acids,191120_Smp_GlassDurapore_A,Leucine,5.3,1006896128,13698840,816399040,-2,Amino Acids
+Amino Acids,191120_Smp_GlassDurapore_B,Leucine,5.31,863569344,4374848,680543936,-1.6,Amino Acids
+Amino Acids,191120_Smp_GlassDurapore_C,Leucine,5.3,887676992,6404583,691269056,-1.7,Amino Acids
+Amino Acids,191120_Smp_0uM_GlassBSA-Durapore_A,Leucine,5.3,989937280,6323056,806724288,-1.7,Amino Acids
+Amino Acids,191120_Smp_0-5uM_GlassBSA-Durapore_A,Leucine,5.3,1141038336,18788274,926005760,-1.6,Amino Acids
+Amino Acids,191120_Smp_1uM_GlassBSA-Durapore_A,Leucine,5.3,1420616960,24402926,1128324352,-1.8,Amino Acids
+Amino Acids,191120_Smp_2-5uM_GlassBSA-Durapore_A,Leucine,5.3,2264884224,30066828,1779706112,-1.9,Amino Acids
+Amino Acids,191120_Blk_GlassBlk_Vial,Leucine,5.3,3905797,0,3032959,-0.7,Amino Acids
+Amino Acids,191120_Smp_GlassVial_A,Leucine,5.3,897976448,3852288,695924672,-1.8,Amino Acids
+Amino Acids,191120_Smp_GlassVial_B,Leucine,5.3,940918592,8579477,730243328,-1.6,Amino Acids
+Amino Acids,191120_Smp_GlassVial_C,Leucine,5.3,948382144,6639274,737192832,-1.4,Amino Acids
+Amino Acids,191120_Smp_0uM_GlassBSA-Vial_A,Leucine,5.3,906573568,7850938,701963136,-1.4,Amino Acids
+Amino Acids,191120_Smp_0-5uM_GlassBSA-Vial_A,Leucine,5.3,1172260096,8203690,945966592,-1.6,Amino Acids
+Amino Acids,191120_Smp_1uM_GlassBSA-Vial_A,Leucine,5.3,1315248000,10973854,1057719488,-1.7,Amino Acids
+Amino Acids,191120_Smp_2-5uM_GlassBSA-Vial_A,Leucine,5.3,2146758656,23606976,1635155328,-1.9,Amino Acids
+Amino Acids,191120_Blk_GlassBlk_Omnipore,Leucine,5.3,9274698,0,7636618,-0.8,Amino Acids
+Amino Acids,191120_Smp_GlassOmnipore_A,Leucine,5.3,1008590976,9255448,782329600,-1.6,Amino Acids
+Amino Acids,191120_Smp_GlassOmnipore_B,Leucine,5.3,884575680,4061505,692879104,-1.5,Amino Acids
+Amino Acids,191120_Smp_GlassOmnipore_C,Leucine,5.3,742924608,2883227,588329536,-1.2,Amino Acids
+Amino Acids,191120_Smp_0uM_GlassBSA-Omnipore_A,Leucine,5.3,868662848,7297619,720426048,-1.2,Amino Acids
+Amino Acids,191120_Smp_0-5uM_GlassBSA-Omnipore_A,Leucine,5.3,1161821440,14765288,925123648,-1.4,Amino Acids
+Amino Acids,191120_Smp_1uM_GlassBSA-Omnipore_A,Leucine,5.3,1522561408,25666840,1175975680,-1.4,Amino Acids
+Amino Acids,191120_Smp_2-5uM_GlassBSA-Omnipore_A,Leucine,5.3,2044838528,25913426,1519636992,-1.6,Amino Acids
+Amino Acids,191120_Blk_GlassBlk_GF75,Leucine,5.3,14573438,0,11876364,-0.6,Amino Acids
+Amino Acids,191120_Smp_GlassGF75_A,Leucine,5.3,719981888,3787154,577557696,-1.2,Amino Acids
+Amino Acids,191120_Smp_GlassGF75_B,Leucine,5.3,888847616,5792123,677710976,-1.1,Amino Acids
+Amino Acids,191120_Smp_GlassGF75_C,Leucine,5.3,811518656,6816466,635473344,-1.2,Amino Acids
+Amino Acids,191120_Smp_0uM_GlassBSA-GF75_A,Leucine,5.3,723806080,4857311,557479168,-1.2,Amino Acids
+Amino Acids,191120_Smp_0-5uM_GlassBSA-GF75_A,Leucine,5.3,1054706752,12520259,833860352,-1.4,Amino Acids
+Amino Acids,191120_Smp_1uM_GlassBSA-GF75_A,Leucine,5.3,1341494400,21458090,1084774400,-1.9,Amino Acids
+Amino Acids,191120_Smp_2-5uM_GlassBSA-GF75_A,Leucine,5.3,1981111680,26251866,1573490176,-2.3,Amino Acids
+Amino Acids,191120_Blk_GlassBlk_Durapore,Phenylalaine,5.44,3264424,0,2731167,-0.7,Amino Acids
+Amino Acids,191120_Smp_GlassDurapore_A,Phenylalaine,5.43,439672000,1512674,343554208,-1.1,Amino Acids
+Amino Acids,191120_Smp_GlassDurapore_B,Phenylalaine,5.44,379757088,1970365,293246688,-0.8,Amino Acids
+Amino Acids,191120_Smp_GlassDurapore_C,Phenylalaine,5.43,380634848,2663199,298051136,-1,Amino Acids
+Amino Acids,191120_Smp_0uM_GlassBSA-Durapore_A,Phenylalaine,5.43,420860320,2022680,328715744,-0.9,Amino Acids
+Amino Acids,191120_Smp_0-5uM_GlassBSA-Durapore_A,Phenylalaine,5.43,676753280,2425307,544395200,-0.9,Amino Acids
+Amino Acids,191120_Smp_1uM_GlassBSA-Durapore_A,Phenylalaine,5.43,975567296,4174093,790635456,-1.2,Amino Acids
+Amino Acids,191120_Smp_2-5uM_GlassBSA-Durapore_A,Phenylalaine,5.43,1827226112,3772890,1407716480,-1.7,Amino Acids
+Amino Acids,191120_Blk_GlassBlk_Vial,Phenylalaine,5.43,2224973,0,1674408,-0.5,Amino Acids
+Amino Acids,191120_Smp_GlassVial_A,Phenylalaine,5.44,407661568,1839677,320725088,-1.1,Amino Acids
+Amino Acids,191120_Smp_GlassVial_B,Phenylalaine,5.43,421678496,5246206,335762656,-0.7,Amino Acids
+Amino Acids,191120_Smp_GlassVial_C,Phenylalaine,5.43,409774912,2811379,328496000,-0.7,Amino Acids
+Amino Acids,191120_Smp_0uM_GlassBSA-Vial_A,Phenylalaine,5.44,415722336,4004251,324643264,-0.7,Amino Acids
+Amino Acids,191120_Smp_0-5uM_GlassBSA-Vial_A,Phenylalaine,5.43,682507584,3514917,549529472,-0.9,Amino Acids
+Amino Acids,191120_Smp_1uM_GlassBSA-Vial_A,Phenylalaine,5.43,868592448,5853947,707276608,-1.1,Amino Acids
+Amino Acids,191120_Smp_2-5uM_GlassBSA-Vial_A,Phenylalaine,5.43,1652641152,11713831,1271774464,-1.4,Amino Acids
+Amino Acids,191120_Blk_GlassBlk_Omnipore,Phenylalaine,5.44,4320534,0,3373294,-0.3,Amino Acids
+Amino Acids,191120_Smp_GlassOmnipore_A,Phenylalaine,5.43,476550144,4532563,413311840,-1.2,Amino Acids
+Amino Acids,191120_Smp_GlassOmnipore_B,Phenylalaine,5.43,408918368,4020516,311165952,-1.2,Amino Acids
+Amino Acids,191120_Smp_GlassOmnipore_C,Phenylalaine,5.43,321931648,996506,235460048,-1,Amino Acids
+Amino Acids,191120_Smp_0uM_GlassBSA-Omnipore_A,Phenylalaine,5.43,419313632,3601122,337612288,-1,Amino Acids
+Amino Acids,191120_Smp_0-5uM_GlassBSA-Omnipore_A,Phenylalaine,5.44,724834752,8625072,580791232,-1.5,Amino Acids
+Amino Acids,191120_Smp_1uM_GlassBSA-Omnipore_A,Phenylalaine,5.43,1032246848,3679699,798745216,-1.6,Amino Acids
+Amino Acids,191120_Smp_2-5uM_GlassBSA-Omnipore_A,Phenylalaine,5.44,1794889088,13717420,1427440512,-2,Amino Acids
+Amino Acids,191120_Blk_GlassBlk_GF75,Phenylalaine,5.43,5915497,0,4660712,-0.3,Amino Acids
+Amino Acids,191120_Smp_GlassGF75_A,Phenylalaine,5.43,362671104,1825580,278185760,-1.2,Amino Acids
+Amino Acids,191120_Smp_GlassGF75_B,Phenylalaine,5.43,436707104,2974747,347254240,-1,Amino Acids
+Amino Acids,191120_Smp_GlassGF75_C,Phenylalaine,5.44,385971616,3628311,309321184,-1.3,Amino Acids
+Amino Acids,191120_Smp_0uM_GlassBSA-GF75_A,Phenylalaine,5.43,361930080,3441029,277467872,-1.1,Amino Acids
+Amino Acids,191120_Smp_0-5uM_GlassBSA-GF75_A,Phenylalaine,5.43,666204928,8152626,505005376,-1.5,Amino Acids
+Amino Acids,191120_Smp_1uM_GlassBSA-GF75_A,Phenylalaine,5.43,961596864,2839858,772931904,-2.2,Amino Acids
+Amino Acids,191120_Smp_2-5uM_GlassBSA-GF75_A,Phenylalaine,5.43,1784977280,20349504,1494746240,-2.2,Amino Acids
+Amino Acids_Internal Standards,191120_Blk_GlassBlk_Durapore,Histidine_IS,1.33,3395,0,12552,9.1,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassDurapore_A,Histidine_IS,1.33,757595,0,632577,10.5,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassDurapore_B,Histidine_IS,1.33,670776,0,625286,10.3,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassDurapore_C,Histidine_IS,1.33,632624,0,568947,10.7,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0uM_GlassBSA-Durapore_A,Histidine_IS,1.33,661791,0,577708,10.6,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0-5uM_GlassBSA-Durapore_A,Histidine_IS,1.33,1429476,0,1329750,10.8,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_1uM_GlassBSA-Durapore_A,Histidine_IS,1.33,2661181,0,2318407,11.1,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_2-5uM_GlassBSA-Durapore_A,Histidine_IS,1.33,5863797,0,5571714,11.4,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Blk_GlassBlk_Vial,Histidine_IS,1.34,722,0,2471,4.4,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassVial_A,Histidine_IS,1.33,666043,0,558749,10.5,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassVial_B,Histidine_IS,1.34,628972,0,573183,10.8,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassVial_C,Histidine_IS,1.33,606813,0,594931,10.3,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0uM_GlassBSA-Vial_A,Histidine_IS,1.33,630016,0,521225,10.3,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0-5uM_GlassBSA-Vial_A,Histidine_IS,1.34,1507289,0,1167061,10.5,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_1uM_GlassBSA-Vial_A,Histidine_IS,1.34,2292698,0,1976494,10.5,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_2-5uM_GlassBSA-Vial_A,Histidine_IS,1.33,5122483,0,4372975,10.8,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Blk_GlassBlk_Omnipore,Histidine_IS,1.33,3436,0,5897,7.2,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassOmnipore_A,Histidine_IS,1.33,802354,0,670016,10.9,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassOmnipore_B,Histidine_IS,1.33,831628,0,723195,11.3,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassOmnipore_C,Histidine_IS,1.33,428835,0,398209,11.2,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0uM_GlassBSA-Omnipore_A,Histidine_IS,1.33,708170,0,618150,10.7,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0-5uM_GlassBSA-Omnipore_A,Histidine_IS,1.33,1584486,0,1498669,11.3,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_1uM_GlassBSA-Omnipore_A,Histidine_IS,1.33,2574516,0,2579413,11.1,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_2-5uM_GlassBSA-Omnipore_A,Histidine_IS,1.33,3522176,0,2437098,9.6,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Blk_GlassBlk_GF75,Histidine_IS,1.33,8873,0,19412,10.2,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassGF75_A,Histidine_IS,1.33,469015,0,428011,11.3,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassGF75_B,Histidine_IS,1.34,574634,0,526735,11.1,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassGF75_C,Histidine_IS,1.32,461347,0,361729,10.5,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0uM_GlassBSA-GF75_A,Histidine_IS,1.33,540960,0,487092,11.5,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0-5uM_GlassBSA-GF75_A,Histidine_IS,1.34,1260133,0,1183565,10.8,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_1uM_GlassBSA-GF75_A,Histidine_IS,1.33,1881054,0,1797282,10.9,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_2-5uM_GlassBSA-GF75_A,Histidine_IS,1.34,3655927,0,2709892,9,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Blk_GlassBlk_Durapore,Arginine_IS,5.03,89867,0,90665,6.4,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassDurapore_A,Arginine_IS,5.03,174542,0,173792,6.5,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassDurapore_B,Arginine_IS,5.03,155637,0,122521,6.6,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassDurapore_C,Arginine_IS,5.03,180991,0,126185,6.1,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0uM_GlassBSA-Durapore_A,Arginine_IS,3.01,8210,0,29279,2.6,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0-5uM_GlassBSA-Durapore_A,Arginine_IS,5.02,62679,0,130548,6.8,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_1uM_GlassBSA-Durapore_A,Arginine_IS,1.36,99672,0,469382,-12.2,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_2-5uM_GlassBSA-Durapore_A,Arginine_IS,5.03,140869,0,134919,5.8,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Blk_GlassBlk_Vial,Arginine_IS,0.51,5291,0,14654,-3.9,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassVial_A,Arginine_IS,5.84,9239,0,23296,1.3,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassVial_B,Arginine_IS,5.84,12577,0,41654,2.6,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassVial_C,Arginine_IS,5.83,8514,0,31932,0.4,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0uM_GlassBSA-Vial_A,Arginine_IS,3.75,9596,0,32206,0.2,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0-5uM_GlassBSA-Vial_A,Arginine_IS,5.83,17167,0,45952,4.9,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_1uM_GlassBSA-Vial_A,Arginine_IS,0.52,3791,0,17295,12.2,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_2-5uM_GlassBSA-Vial_A,Arginine_IS,5.84,8033,0,30823,0,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Blk_GlassBlk_Omnipore,Arginine_IS,1.35,55475,0,225716,8.9,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassOmnipore_A,Arginine_IS,#N/A,#N/A,#N/A,#N/A,#N/A,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassOmnipore_B,Arginine_IS,5.87,7099,0,22189,-4.7,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassOmnipore_C,Arginine_IS,#N/A,#N/A,#N/A,#N/A,#N/A,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0uM_GlassBSA-Omnipore_A,Arginine_IS,5.85,11587,0,45928,0.3,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0-5uM_GlassBSA-Omnipore_A,Arginine_IS,5.84,16310,0,51147,0.7,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_1uM_GlassBSA-Omnipore_A,Arginine_IS,2.52,13619,0,57976,-6.6,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_2-5uM_GlassBSA-Omnipore_A,Arginine_IS,5.84,7050,0,22993,1.3,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Blk_GlassBlk_GF75,Arginine_IS,5.83,11280,0,46985,1.9,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassGF75_A,Arginine_IS,3.02,799,0,2252,-6.1,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassGF75_B,Arginine_IS,5.83,7518,0,30671,3.3,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassGF75_C,Arginine_IS,5.84,9434,0,39140,0.3,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0uM_GlassBSA-GF75_A,Arginine_IS,5.83,13126,0,44075,1.5,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0-5uM_GlassBSA-GF75_A,Arginine_IS,#N/A,#N/A,#N/A,#N/A,#N/A,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_1uM_GlassBSA-GF75_A,Arginine_IS,5.83,22822,0,58285,1.5,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_2-5uM_GlassBSA-GF75_A,Arginine_IS,5.84,7448,0,31973,0.7,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Blk_GlassBlk_Durapore,Serine_IS,0.61,115674,0,139631,5.7,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassDurapore_A,Serine_IS,0.6,150256,0,199734,4.6,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassDurapore_B,Serine_IS,1.98,20258,0,68748,-2.7,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassDurapore_C,Serine_IS,0.65,75484,0,115530,4.8,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0uM_GlassBSA-Durapore_A,Serine_IS,0.65,97615,0,176457,5.9,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0-5uM_GlassBSA-Durapore_A,Serine_IS,0.6,168031,0,204462,5.8,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_1uM_GlassBSA-Durapore_A,Serine_IS,0.6,128744,0,299656,5.1,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_2-5uM_GlassBSA-Durapore_A,Serine_IS,0.65,91680,0,249391,5,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Blk_GlassBlk_Vial,Serine_IS,0.6,148832,0,209228,5.1,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassVial_A,Serine_IS,0.6,132639,0,172835,5.6,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassVial_B,Serine_IS,0.66,106880,0,215166,2.9,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassVial_C,Serine_IS,0.6,226936,0,254010,5.6,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0uM_GlassBSA-Vial_A,Serine_IS,0.61,129078,0,210940,4.8,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0-5uM_GlassBSA-Vial_A,Serine_IS,0.6,91333,0,144712,4.8,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_1uM_GlassBSA-Vial_A,Serine_IS,0.65,113191,0,166154,4.3,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_2-5uM_GlassBSA-Vial_A,Serine_IS,0.65,71155,0,195915,4.6,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Blk_GlassBlk_Omnipore,Serine_IS,1.51,106270,0,302257,4.6,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassOmnipore_A,Serine_IS,0.6,105544,0,177717,6.3,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassOmnipore_B,Serine_IS,0.65,100312,0,234628,5.5,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassOmnipore_C,Serine_IS,0.61,1469767,0,1460513,5.1,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0uM_GlassBSA-Omnipore_A,Serine_IS,0.65,119511,0,208260,5,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0-5uM_GlassBSA-Omnipore_A,Serine_IS,0.65,129947,0,273452,4.5,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_1uM_GlassBSA-Omnipore_A,Serine_IS,0.65,118821,0,227543,5.5,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_2-5uM_GlassBSA-Omnipore_A,Serine_IS,0.65,87180,0,224879,3.6,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Blk_GlassBlk_GF75,Serine_IS,0.6,4410705,0,4939337,4.7,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassGF75_A,Serine_IS,0.6,4130789,0,4030691,5,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassGF75_B,Serine_IS,0.6,4078427,0,4270954,5,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassGF75_C,Serine_IS,0.59,3492456,0,3857065,5.6,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0uM_GlassBSA-GF75_A,Serine_IS,0.6,4241358,0,4209854,4.5,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0-5uM_GlassBSA-GF75_A,Serine_IS,0.6,4232990,26713,4484515,4.8,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_1uM_GlassBSA-GF75_A,Serine_IS,0.59,3757300,0,3651203,4.8,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_2-5uM_GlassBSA-GF75_A,Serine_IS,0.59,3538492,0,3530663,4.3,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Blk_GlassBlk_Durapore,Glycine_IS,0.7,266330,19095,163026,-9.8,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassDurapore_A,Glycine_IS,2.49,47179,0,55953,-6.3,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassDurapore_B,Glycine_IS,2.49,16477,0,32915,-8.8,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassDurapore_C,Glycine_IS,0.67,216739,3146,169762,-9.9,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0uM_GlassBSA-Durapore_A,Glycine_IS,2.48,43434,0,67267,-12.3,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0-5uM_GlassBSA-Durapore_A,Glycine_IS,2.49,46775,0,44936,-11.7,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_1uM_GlassBSA-Durapore_A,Glycine_IS,2.48,107372,0,74834,-11.2,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_2-5uM_GlassBSA-Durapore_A,Glycine_IS,2.48,57946,0,125480,-10.2,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Blk_GlassBlk_Vial,Glycine_IS,2.48,30546,0,82578,-9.3,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassVial_A,Glycine_IS,2.48,20797,0,44130,-8.7,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassVial_B,Glycine_IS,2.48,20717,0,32343,-6.1,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassVial_C,Glycine_IS,2.48,40848,0,48021,-8,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0uM_GlassBSA-Vial_A,Glycine_IS,2.47,20220,0,36152,-9.2,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0-5uM_GlassBSA-Vial_A,Glycine_IS,2.48,40475,0,58576,-11.2,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_1uM_GlassBSA-Vial_A,Glycine_IS,2.49,25497,0,50943,-0.3,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_2-5uM_GlassBSA-Vial_A,Glycine_IS,2.5,24701,0,66222,1.9,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Blk_GlassBlk_Omnipore,Glycine_IS,0.69,284267,13064,165946,-9.8,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassOmnipore_A,Glycine_IS,2.48,31956,0,34247,-10.3,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassOmnipore_B,Glycine_IS,2.48,39940,0,30847,-12.1,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassOmnipore_C,Glycine_IS,2.69,267213,0,191695,7,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0uM_GlassBSA-Omnipore_A,Glycine_IS,2.48,45774,0,29190,-11.7,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0-5uM_GlassBSA-Omnipore_A,Glycine_IS,2.47,88036,0,52703,-11.2,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_1uM_GlassBSA-Omnipore_A,Glycine_IS,2.49,132563,0,102704,-9.9,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_2-5uM_GlassBSA-Omnipore_A,Glycine_IS,2.49,143992,0,98442,-11.8,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Blk_GlassBlk_GF75,Glycine_IS,0.61,389428,0,278541,-9.9,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassGF75_A,Glycine_IS,2.48,25491,0,24212,-11,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassGF75_B,Glycine_IS,2.48,37043,0,28810,-12,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassGF75_C,Glycine_IS,2.49,26847,0,21423,-11.2,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0uM_GlassBSA-GF75_A,Glycine_IS,2.48,38146,0,67335,-5.9,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0-5uM_GlassBSA-GF75_A,Glycine_IS,2.48,76792,0,47879,-12.3,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_1uM_GlassBSA-GF75_A,Glycine_IS,2.48,85868,0,84089,-9.6,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_2-5uM_GlassBSA-GF75_A,Glycine_IS,2.48,132568,0,81746,-12.2,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Blk_GlassBlk_Durapore,Aspartic Acid_IS,0.71,197557,0,354336,5.2,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassDurapore_A,Aspartic Acid_IS,0.71,297142,0,405693,5.9,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassDurapore_B,Aspartic Acid_IS,0.71,286059,0,380981,4.6,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassDurapore_C,Aspartic Acid_IS,2.74,9231,0,24860,-2.6,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0uM_GlassBSA-Durapore_A,Aspartic Acid_IS,0.71,351560,0,397176,5.8,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0-5uM_GlassBSA-Durapore_A,Aspartic Acid_IS,0.7,299020,0,435834,6,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_1uM_GlassBSA-Durapore_A,Aspartic Acid_IS,0.7,311450,0,505634,5.8,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_2-5uM_GlassBSA-Durapore_A,Aspartic Acid_IS,0.7,284487,0,364645,6.1,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Blk_GlassBlk_Vial,Aspartic Acid_IS,0.7,270874,0,428680,6.4,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassVial_A,Aspartic Acid_IS,0.71,234946,0,343723,6.6,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassVial_B,Aspartic Acid_IS,0.71,175571,0,280411,5.1,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassVial_C,Aspartic Acid_IS,0.6,903956,0,829559,5.5,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0uM_GlassBSA-Vial_A,Aspartic Acid_IS,0.7,218794,0,311419,6.4,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0-5uM_GlassBSA-Vial_A,Aspartic Acid_IS,0.71,265710,0,251453,6.5,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_1uM_GlassBSA-Vial_A,Aspartic Acid_IS,0.71,176666,0,234074,6.4,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_2-5uM_GlassBSA-Vial_A,Aspartic Acid_IS,0.71,266547,0,455618,4.9,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Blk_GlassBlk_Omnipore,Aspartic Acid_IS,0.71,259135,0,319358,6.2,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassOmnipore_A,Aspartic Acid_IS,0.71,203803,0,259443,5.6,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassOmnipore_B,Aspartic Acid_IS,2.52,2121,0,4317,-9.5,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassOmnipore_C,Aspartic Acid_IS,0.6,3267557,0,2905166,5.3,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0uM_GlassBSA-Omnipore_A,Aspartic Acid_IS,0.71,376536,0,433155,6.1,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0-5uM_GlassBSA-Omnipore_A,Aspartic Acid_IS,0.71,325351,0,513460,5.4,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_1uM_GlassBSA-Omnipore_A,Aspartic Acid_IS,0.7,274353,0,412484,6.3,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_2-5uM_GlassBSA-Omnipore_A,Aspartic Acid_IS,2.5,3962,0,6584,-10.5,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Blk_GlassBlk_GF75,Aspartic Acid_IS,0.67,3231085,0,2266344,5,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassGF75_A,Aspartic Acid_IS,0.66,2950470,0,2142288,4.5,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassGF75_B,Aspartic Acid_IS,0.66,3112242,0,2138352,4.5,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassGF75_C,Aspartic Acid_IS,0.65,2573491,0,1218707,5.3,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0uM_GlassBSA-GF75_A,Aspartic Acid_IS,0.66,2905443,0,1712818,4.7,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0-5uM_GlassBSA-GF75_A,Aspartic Acid_IS,0.66,2955594,0,1712297,5.4,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_1uM_GlassBSA-GF75_A,Aspartic Acid_IS,0.66,3083792,0,1921492,4.8,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_2-5uM_GlassBSA-GF75_A,Aspartic Acid_IS,0.66,3024178,0,1803985,4.4,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Blk_GlassBlk_Durapore,Glutamic Acid_IS,3.78,142723,0,139288,-3.9,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassDurapore_A,Glutamic Acid_IS,3.78,166867,0,170525,-4.4,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassDurapore_B,Glutamic Acid_IS,3.78,158865,0,162870,-4.7,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassDurapore_C,Glutamic Acid_IS,3.78,160600,0,156719,-4.3,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0uM_GlassBSA-Durapore_A,Glutamic Acid_IS,3.78,127280,0,109490,-4.1,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0-5uM_GlassBSA-Durapore_A,Glutamic Acid_IS,3.77,125172,0,145117,-4.1,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_1uM_GlassBSA-Durapore_A,Glutamic Acid_IS,3.78,128219,0,187223,-3.1,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_2-5uM_GlassBSA-Durapore_A,Glutamic Acid_IS,3.78,110315,0,145207,-4.4,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Blk_GlassBlk_Vial,Glutamic Acid_IS,3.78,117564,0,104014,-4.3,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassVial_A,Glutamic Acid_IS,3.78,118123,0,117624,-4,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassVial_B,Glutamic Acid_IS,3.78,110232,0,106658,-4.4,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassVial_C,Glutamic Acid_IS,3.78,168379,0,172421,-3.8,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0uM_GlassBSA-Vial_A,Glutamic Acid_IS,3.78,137920,0,138037,-4,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0-5uM_GlassBSA-Vial_A,Glutamic Acid_IS,3.78,103181,0,120387,-4.1,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_1uM_GlassBSA-Vial_A,Glutamic Acid_IS,3.78,96259,0,126204,-4.5,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_2-5uM_GlassBSA-Vial_A,Glutamic Acid_IS,3.78,85354,0,137398,-3.2,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Blk_GlassBlk_Omnipore,Glutamic Acid_IS,3.78,104643,0,131000,-3.9,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassOmnipore_A,Glutamic Acid_IS,3.78,109813,0,111828,-4.5,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassOmnipore_B,Glutamic Acid_IS,3.78,150081,0,170946,-4,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassOmnipore_C,Glutamic Acid_IS,3.78,196844,0,200150,-3.7,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0uM_GlassBSA-Omnipore_A,Glutamic Acid_IS,3.79,142321,0,113525,-3.4,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0-5uM_GlassBSA-Omnipore_A,Glutamic Acid_IS,3.78,126445,0,140552,-3.5,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_1uM_GlassBSA-Omnipore_A,Glutamic Acid_IS,3.78,106820,0,129005,-2.7,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_2-5uM_GlassBSA-Omnipore_A,Glutamic Acid_IS,3.78,85263,0,143210,-3.8,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Blk_GlassBlk_GF75,Glutamic Acid_IS,3.78,112651,0,127900,-4.6,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassGF75_A,Glutamic Acid_IS,3.78,115292,0,122753,-3.2,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassGF75_B,Glutamic Acid_IS,3.78,118593,0,133401,-3.8,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassGF75_C,Glutamic Acid_IS,3.78,140287,0,147692,-3.8,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0uM_GlassBSA-GF75_A,Glutamic Acid_IS,3.78,120023,0,106011,-3.7,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0-5uM_GlassBSA-GF75_A,Glutamic Acid_IS,3.78,135807,0,161710,-2.9,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_1uM_GlassBSA-GF75_A,Glutamic Acid_IS,3.78,127477,0,178098,-4.2,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_2-5uM_GlassBSA-GF75_A,Glutamic Acid_IS,3.78,99961,0,131306,-3.6,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Blk_GlassBlk_Durapore,Threonine_IS,3.06,42951,0,46570,9.3,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassDurapore_A,Threonine_IS,3.07,6574281,57312,4403677,7.5,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassDurapore_B,Threonine_IS,3.06,6155142,52458,4331353,7.5,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassDurapore_C,Threonine_IS,3.06,6158644,8770,4342894,7.6,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0uM_GlassBSA-Durapore_A,Threonine_IS,3.06,6439684,18233,4361301,7.7,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0-5uM_GlassBSA-Durapore_A,Threonine_IS,3.06,10153494,52048,7251175,7.9,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_1uM_GlassBSA-Durapore_A,Threonine_IS,3.05,12287975,44065,8361984,8,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_2-5uM_GlassBSA-Durapore_A,Threonine_IS,3.06,28545428,319536,17496168,8.6,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Blk_GlassBlk_Vial,Threonine_IS,3.05,38376,0,35431,9.3,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassVial_A,Threonine_IS,3.06,5924516,79627,3977924,7.6,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassVial_B,Threonine_IS,3.07,5837187,45072,4026105,7.5,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassVial_C,Threonine_IS,3.06,5980079,20513,3818097,7.3,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0uM_GlassBSA-Vial_A,Threonine_IS,3.07,5548398,6812,3469555,7.4,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0-5uM_GlassBSA-Vial_A,Threonine_IS,3.06,9423182,21426,6173949,7.4,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_1uM_GlassBSA-Vial_A,Threonine_IS,3.06,11629523,152431,7640459,7.6,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_2-5uM_GlassBSA-Vial_A,Threonine_IS,3.06,27540448,358722,18118500,8.1,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Blk_GlassBlk_Omnipore,Threonine_IS,3.06,72026,0,74561,9.4,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassOmnipore_A,Threonine_IS,3.06,6776214,0,4278809,8,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassOmnipore_B,Threonine_IS,3.05,6517593,20961,4317167,8.1,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassOmnipore_C,Threonine_IS,3.06,7199310,20497,4804642,8.2,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0uM_GlassBSA-Omnipore_A,Threonine_IS,3.06,6298660,62026,4054412,8.3,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0-5uM_GlassBSA-Omnipore_A,Threonine_IS,3.06,11142426,93344,7019487,8.5,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_1uM_GlassBSA-Omnipore_A,Threonine_IS,3.06,17643012,186012,10669918,8.7,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_2-5uM_GlassBSA-Omnipore_A,Threonine_IS,3.06,31679080,134144,20228682,9.1,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Blk_GlassBlk_GF75,Threonine_IS,3.06,101716,0,139419,10.4,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassGF75_A,Threonine_IS,3.06,4889969,35516,3142064,8.4,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassGF75_B,Threonine_IS,3.06,7426803,25438,5747186,8.7,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassGF75_C,Threonine_IS,3.06,6593878,51855,5080867,8.8,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0uM_GlassBSA-GF75_A,Threonine_IS,3.06,5613237,14407,3752713,8.6,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0-5uM_GlassBSA-GF75_A,Threonine_IS,3.06,11169290,43998,7459690,8.9,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_1uM_GlassBSA-GF75_A,Threonine_IS,3.06,16665751,51765,11738791,9.1,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_2-5uM_GlassBSA-GF75_A,Threonine_IS,3.06,35976596,436177,24458916,9.2,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Blk_GlassBlk_Durapore,Alanine_IS,4.44,103925,0,82940,4.1,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassDurapore_A,Alanine_IS,5.91,161981,33746,160238,3.8,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassDurapore_B,Alanine_IS,0.6,325022,0,230492,5.8,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassDurapore_C,Alanine_IS,0.6,298325,0,193124,5.9,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0uM_GlassBSA-Durapore_A,Alanine_IS,5.9,192669,35755,134278,4.8,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0-5uM_GlassBSA-Durapore_A,Alanine_IS,3.4,9885,0,40607,0.4,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_1uM_GlassBSA-Durapore_A,Alanine_IS,4.44,41515,0,99098,3.8,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_2-5uM_GlassBSA-Durapore_A,Alanine_IS,0.59,413373,0,266475,6.3,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Blk_GlassBlk_Vial,Alanine_IS,4.42,60347,0,52361,4.6,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassVial_A,Alanine_IS,3.41,16597,0,56492,3.3,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassVial_B,Alanine_IS,0.6,540905,0,293817,5.8,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassVial_C,Alanine_IS,4.43,54370,0,83811,4.2,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0uM_GlassBSA-Vial_A,Alanine_IS,0.6,360751,0,242899,5.9,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0-5uM_GlassBSA-Vial_A,Alanine_IS,4.43,82627,0,80891,3.8,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_1uM_GlassBSA-Vial_A,Alanine_IS,4.43,13273,0,45210,4,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_2-5uM_GlassBSA-Vial_A,Alanine_IS,4.43,33974,0,53323,4.3,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Blk_GlassBlk_Omnipore,Alanine_IS,4.43,43511,0,65031,3.9,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassOmnipore_A,Alanine_IS,4.43,72013,0,67727,4.9,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassOmnipore_B,Alanine_IS,4.43,26350,0,51230,3.8,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassOmnipore_C,Alanine_IS,4.44,40732,0,89111,5.5,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0uM_GlassBSA-Omnipore_A,Alanine_IS,4.43,82951,0,96587,4.4,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0-5uM_GlassBSA-Omnipore_A,Alanine_IS,4.43,61149,0,68628,4.2,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_1uM_GlassBSA-Omnipore_A,Alanine_IS,4.43,29955,0,58737,5.1,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_2-5uM_GlassBSA-Omnipore_A,Alanine_IS,4.43,19130,0,43740,5.2,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Blk_GlassBlk_GF75,Alanine_IS,4.43,48835,0,66301,3.9,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassGF75_A,Alanine_IS,4.43,59284,0,86589,5.6,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassGF75_B,Alanine_IS,4.43,40410,0,64057,4,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassGF75_C,Alanine_IS,4.43,66733,0,76628,6.1,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0uM_GlassBSA-GF75_A,Alanine_IS,4.43,68265,0,59910,5.4,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0-5uM_GlassBSA-GF75_A,Alanine_IS,4.44,80706,0,91584,4.8,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_1uM_GlassBSA-GF75_A,Alanine_IS,4.43,51121,0,83135,4.3,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_2-5uM_GlassBSA-GF75_A,Alanine_IS,3.55,6701,0,20066,4.9,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Blk_GlassBlk_Durapore,Proline_IS,5,203208,0,125073,-7.1,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassDurapore_A,Proline_IS,4.72,121257,0,101044,-7,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassDurapore_B,Proline_IS,4.72,238257,0,215115,-6.4,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassDurapore_C,Proline_IS,5.07,549936,0,460872,-7,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0uM_GlassBSA-Durapore_A,Proline_IS,4.71,90943,0,88781,-6.2,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0-5uM_GlassBSA-Durapore_A,Proline_IS,4.71,74463,0,78134,-7,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_1uM_GlassBSA-Durapore_A,Proline_IS,4.71,132615,0,123930,-6.7,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_2-5uM_GlassBSA-Durapore_A,Proline_IS,4.71,83510,0,91308,-5.8,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Blk_GlassBlk_Vial,Proline_IS,#N/A,#N/A,#N/A,#N/A,#N/A,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassVial_A,Proline_IS,0.7,13851,0,50344,2.8,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassVial_B,Proline_IS,#N/A,#N/A,#N/A,#N/A,#N/A,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassVial_C,Proline_IS,#N/A,#N/A,#N/A,#N/A,#N/A,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0uM_GlassBSA-Vial_A,Proline_IS,5.93,9112,0,31278,2,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0-5uM_GlassBSA-Vial_A,Proline_IS,#N/A,#N/A,#N/A,#N/A,#N/A,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_1uM_GlassBSA-Vial_A,Proline_IS,0.11,1235,0,4772,-10.4,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_2-5uM_GlassBSA-Vial_A,Proline_IS,5.84,8351,0,32042,0.9,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Blk_GlassBlk_Omnipore,Proline_IS,4.42,2962,0,12105,-2,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassOmnipore_A,Proline_IS,1.48,129718,0,511698,-6.9,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassOmnipore_B,Proline_IS,5.92,26145,0,38759,2.7,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassOmnipore_C,Proline_IS,#N/A,#N/A,#N/A,#N/A,#N/A,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0uM_GlassBSA-Omnipore_A,Proline_IS,5.82,5598,0,22306,6.1,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0-5uM_GlassBSA-Omnipore_A,Proline_IS,5.82,10858,0,45745,4.2,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_1uM_GlassBSA-Omnipore_A,Proline_IS,#N/A,#N/A,#N/A,#N/A,#N/A,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_2-5uM_GlassBSA-Omnipore_A,Proline_IS,2.26,20374,0,62354,2.1,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Blk_GlassBlk_GF75,Proline_IS,5.93,10671,0,34799,2.4,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassGF75_A,Proline_IS,#N/A,#N/A,#N/A,#N/A,#N/A,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassGF75_B,Proline_IS,#N/A,#N/A,#N/A,#N/A,#N/A,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassGF75_C,Proline_IS,2.34,5519,0,15800,-3.5,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0uM_GlassBSA-GF75_A,Proline_IS,5.83,5517,0,27316,7.6,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0-5uM_GlassBSA-GF75_A,Proline_IS,#N/A,#N/A,#N/A,#N/A,#N/A,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_1uM_GlassBSA-GF75_A,Proline_IS,5.83,7840,0,27647,5.5,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_2-5uM_GlassBSA-GF75_A,Proline_IS,1.57,92764,0,298775,5.2,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Blk_GlassBlk_Durapore,Lysine_IS,3.1,104173,0,90253,7.2,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassDurapore_A,Lysine_IS,4.11,58835,0,171594,2.4,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassDurapore_B,Lysine_IS,4.11,114310,0,240917,4.8,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassDurapore_C,Lysine_IS,4.11,87600,0,205390,7,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0uM_GlassBSA-Durapore_A,Lysine_IS,4.1,187159,0,254577,4.4,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0-5uM_GlassBSA-Durapore_A,Lysine_IS,4.11,98773,0,195269,3.7,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_1uM_GlassBSA-Durapore_A,Lysine_IS,4.11,177077,0,291988,7,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_2-5uM_GlassBSA-Durapore_A,Lysine_IS,4.11,100058,0,204165,3.4,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Blk_GlassBlk_Vial,Lysine_IS,3.09,105969,0,98754,7.4,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassVial_A,Lysine_IS,4.11,81810,0,139060,3.4,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassVial_B,Lysine_IS,4.11,35944,0,105591,4.5,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassVial_C,Lysine_IS,3.1,62548,0,49398,6.6,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0uM_GlassBSA-Vial_A,Lysine_IS,4.1,42375,0,174663,6.9,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0-5uM_GlassBSA-Vial_A,Lysine_IS,4.11,76924,0,165599,5.6,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_1uM_GlassBSA-Vial_A,Lysine_IS,4.1,239194,0,385844,3.2,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_2-5uM_GlassBSA-Vial_A,Lysine_IS,4.1,400456,0,468920,5.7,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Blk_GlassBlk_Omnipore,Lysine_IS,3.1,146677,0,115205,7.1,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassOmnipore_A,Lysine_IS,4.1,135637,0,235720,4.4,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassOmnipore_B,Lysine_IS,3.1,168946,0,135410,7.4,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassOmnipore_C,Lysine_IS,3.1,648763,0,475589,7.3,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0uM_GlassBSA-Omnipore_A,Lysine_IS,4.1,4893,0,21176,-8.7,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0-5uM_GlassBSA-Omnipore_A,Lysine_IS,4.11,111538,0,318726,6.9,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_1uM_GlassBSA-Omnipore_A,Lysine_IS,4.11,97656,0,218753,6.3,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_2-5uM_GlassBSA-Omnipore_A,Lysine_IS,4.11,177728,0,296601,5.7,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Blk_GlassBlk_GF75,Lysine_IS,3.1,83650,0,68294,6.5,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassGF75_A,Lysine_IS,3.1,106771,0,102280,7.8,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassGF75_B,Lysine_IS,4.11,48622,0,146283,5.8,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassGF75_C,Lysine_IS,3.1,104795,0,94774,7.4,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0uM_GlassBSA-GF75_A,Lysine_IS,3.1,146210,0,126607,7.4,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0-5uM_GlassBSA-GF75_A,Lysine_IS,3.1,100489,0,72361,7.9,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_1uM_GlassBSA-GF75_A,Lysine_IS,4.12,17600,0,51473,3.5,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_2-5uM_GlassBSA-GF75_A,Lysine_IS,4.1,57295,0,177874,5,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Blk_GlassBlk_Durapore,Tyrosine_IS,5.44,192434,0,147143,-12,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassDurapore_A,Tyrosine_IS,4.44,503718,0,430603,-10,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassDurapore_B,Tyrosine_IS,4.45,509931,0,419717,-9.9,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassDurapore_C,Tyrosine_IS,4.44,501826,0,475443,-9.8,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0uM_GlassBSA-Durapore_A,Tyrosine_IS,4.44,463421,0,404314,-10,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0-5uM_GlassBSA-Durapore_A,Tyrosine_IS,4.44,2620883,0,2253274,-9.8,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_1uM_GlassBSA-Durapore_A,Tyrosine_IS,4.44,4085161,0,3301508,-9.7,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_2-5uM_GlassBSA-Durapore_A,Tyrosine_IS,4.44,9379796,0,6933947,-10,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Blk_GlassBlk_Vial,Tyrosine_IS,5.92,15462,0,30266,7.5,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassVial_A,Tyrosine_IS,4.44,920974,0,742108,-9.9,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassVial_B,Tyrosine_IS,4.44,1630396,0,1291403,-9.7,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassVial_C,Tyrosine_IS,4.44,1594831,0,1338180,-9.9,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0uM_GlassBSA-Vial_A,Tyrosine_IS,4.45,929276,0,764768,-10,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0-5uM_GlassBSA-Vial_A,Tyrosine_IS,4.44,2917880,0,2458807,-10,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_1uM_GlassBSA-Vial_A,Tyrosine_IS,4.44,4854452,0,4093084,-10,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_2-5uM_GlassBSA-Vial_A,Tyrosine_IS,4.44,9314305,72104,7516523,-10.4,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Blk_GlassBlk_Omnipore,Tyrosine_IS,5.92,32207,0,50614,8.4,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassOmnipore_A,Tyrosine_IS,4.44,9307,0,24151,-8.1,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassOmnipore_B,Tyrosine_IS,5.92,28210,0,50196,8.8,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassOmnipore_C,Tyrosine_IS,4.44,515794,0,438974,-9.2,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0uM_GlassBSA-Omnipore_A,Tyrosine_IS,4.44,5213,0,14825,-10.8,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0-5uM_GlassBSA-Omnipore_A,Tyrosine_IS,4.45,2030353,0,1706875,-9.4,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_1uM_GlassBSA-Omnipore_A,Tyrosine_IS,4.44,3646987,0,3041316,-9.3,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_2-5uM_GlassBSA-Omnipore_A,Tyrosine_IS,4.44,8013484,37781,6071870,-9.7,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Blk_GlassBlk_GF75,Tyrosine_IS,5.92,30507,0,61910,10.4,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassGF75_A,Tyrosine_IS,4.44,23104,0,38453,-8.8,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassGF75_B,Tyrosine_IS,4.44,61922,0,65744,-9.6,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassGF75_C,Tyrosine_IS,4.44,92012,0,95454,-9.3,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0uM_GlassBSA-GF75_A,Tyrosine_IS,4.44,41261,0,43784,-9.8,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0-5uM_GlassBSA-GF75_A,Tyrosine_IS,4.44,1962702,0,1806955,-8.9,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_1uM_GlassBSA-GF75_A,Tyrosine_IS,4.44,3236276,20311,2747289,-9.3,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_2-5uM_GlassBSA-GF75_A,Tyrosine_IS,4.44,6875309,42179,5805309,-9.4,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Blk_GlassBlk_Durapore,Methionine_IS,5.44,123466,0,112220,-4.2,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassDurapore_A,Methionine_IS,4.64,338379,0,301596,-6,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassDurapore_B,Methionine_IS,4.64,173290,0,206536,-6.4,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassDurapore_C,Methionine_IS,4.64,373614,0,431412,-6.5,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0uM_GlassBSA-Durapore_A,Methionine_IS,4.64,376725,0,348119,-6.2,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0-5uM_GlassBSA-Durapore_A,Methionine_IS,4.64,302536,0,305421,-6.6,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_1uM_GlassBSA-Durapore_A,Methionine_IS,4.63,364307,0,409710,-6.2,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_2-5uM_GlassBSA-Durapore_A,Methionine_IS,4.63,292316,0,378100,-5.3,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Blk_GlassBlk_Vial,Methionine_IS,5.84,47896,0,44203,-8,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassVial_A,Methionine_IS,4.64,1651908,0,1459311,-6.8,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassVial_B,Methionine_IS,4.64,953227,0,818217,-6.2,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassVial_C,Methionine_IS,4.64,903996,0,813205,-6.3,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0uM_GlassBSA-Vial_A,Methionine_IS,4.64,1635054,0,1372078,-6.4,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0-5uM_GlassBSA-Vial_A,Methionine_IS,4.64,1614086,0,1273780,-6.1,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_1uM_GlassBSA-Vial_A,Methionine_IS,4.64,1566145,0,1449272,-6.5,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_2-5uM_GlassBSA-Vial_A,Methionine_IS,4.64,1259776,0,1206926,-6.6,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Blk_GlassBlk_Omnipore,Methionine_IS,5.84,18115,0,49708,-6.2,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassOmnipore_A,Methionine_IS,4.63,1388098,0,1135139,-6.4,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassOmnipore_B,Methionine_IS,4.63,968486,0,814619,-6.2,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassOmnipore_C,Methionine_IS,5.39,933596,0,758613,-5.9,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0uM_GlassBSA-Omnipore_A,Methionine_IS,4.64,1134919,0,1101706,-6.3,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0-5uM_GlassBSA-Omnipore_A,Methionine_IS,4.64,1353230,0,1168028,-6.8,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_1uM_GlassBSA-Omnipore_A,Methionine_IS,4.64,1106536,0,1004037,-6.4,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_2-5uM_GlassBSA-Omnipore_A,Methionine_IS,4.63,1073500,0,845040,-6.4,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Blk_GlassBlk_GF75,Methionine_IS,5.39,8413,0,33332,8.6,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassGF75_A,Methionine_IS,4.64,308827,0,255613,-5.8,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassGF75_B,Methionine_IS,4.64,350892,0,345714,-7,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassGF75_C,Methionine_IS,4.64,135317,0,133493,-5.2,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0uM_GlassBSA-GF75_A,Methionine_IS,4.63,282469,0,249351,-6,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0-5uM_GlassBSA-GF75_A,Methionine_IS,4.64,281914,0,309270,-5.5,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_1uM_GlassBSA-GF75_A,Methionine_IS,4.63,252364,0,312352,-6.2,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_2-5uM_GlassBSA-GF75_A,Methionine_IS,4.63,215060,0,257382,-6.7,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Blk_GlassBlk_Durapore,Valine_IS,5.8,179081,0,156438,3.3,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassDurapore_A,Valine_IS,5.95,46968,0,128820,2.6,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassDurapore_B,Valine_IS,5.81,22094,0,49242,2.1,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassDurapore_C,Valine_IS,5.8,142954,0,176542,2.8,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0uM_GlassBSA-Durapore_A,Valine_IS,5.26,9158,0,28210,1.2,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0-5uM_GlassBSA-Durapore_A,Valine_IS,4.62,15364,0,51406,1.7,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_1uM_GlassBSA-Durapore_A,Valine_IS,5.95,19983,0,51803,1.5,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_2-5uM_GlassBSA-Durapore_A,Valine_IS,5.27,7900,0,29776,0.6,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Blk_GlassBlk_Vial,Valine_IS,5.87,9100,0,31796,4.1,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassVial_A,Valine_IS,5.91,15338,0,75804,2.1,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassVial_B,Valine_IS,4.67,11994,0,40146,3.4,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassVial_C,Valine_IS,#N/A,#N/A,#N/A,#N/A,#N/A,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0uM_GlassBSA-Vial_A,Valine_IS,5.98,11914,0,44769,-0.8,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0-5uM_GlassBSA-Vial_A,Valine_IS,5.12,6979,0,18794,0.6,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_1uM_GlassBSA-Vial_A,Valine_IS,4.71,8105,0,27198,-6,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_2-5uM_GlassBSA-Vial_A,Valine_IS,#N/A,#N/A,#N/A,#N/A,#N/A,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Blk_GlassBlk_Omnipore,Valine_IS,5.99,7481,0,27711,-1.5,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassOmnipore_A,Valine_IS,5.97,8669,0,40105,-4.6,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassOmnipore_B,Valine_IS,5.98,10455,0,46543,-2.4,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassOmnipore_C,Valine_IS,6,8785,0,35736,-0.9,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0uM_GlassBSA-Omnipore_A,Valine_IS,#N/A,#N/A,#N/A,#N/A,#N/A,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0-5uM_GlassBSA-Omnipore_A,Valine_IS,6,22271,0,54424,-3.3,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_1uM_GlassBSA-Omnipore_A,Valine_IS,5.98,8435,0,36741,-0.6,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_2-5uM_GlassBSA-Omnipore_A,Valine_IS,5.97,8974,0,23819,-1.9,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Blk_GlassBlk_GF75,Valine_IS,3.99,5951,0,21032,3.8,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassGF75_A,Valine_IS,5.89,12314,0,49725,4.7,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassGF75_B,Valine_IS,5.99,13048,0,46845,-0.9,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassGF75_C,Valine_IS,5.99,11895,0,51380,-3.8,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0uM_GlassBSA-GF75_A,Valine_IS,#N/A,#N/A,#N/A,#N/A,#N/A,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0-5uM_GlassBSA-GF75_A,Valine_IS,5.88,6977,0,19463,3.7,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_1uM_GlassBSA-GF75_A,Valine_IS,5.98,8582,0,38285,-0.5,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_2-5uM_GlassBSA-GF75_A,Valine_IS,5.91,14418,0,70892,3.6,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Blk_GlassBlk_Durapore,Isoleucine_IS,5.24,89997,0,78915,9.7,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassDurapore_A,Isoleucine_IS,5.24,7756564,40688,6147587,9.4,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassDurapore_B,Isoleucine_IS,5.24,6362660,56890,5297854,9.4,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassDurapore_C,Isoleucine_IS,5.23,6583953,60052,5523651,9.6,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0uM_GlassBSA-Durapore_A,Isoleucine_IS,5.23,7224716,57937,5429790,9.6,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0-5uM_GlassBSA-Durapore_A,Isoleucine_IS,5.23,17820286,132243,16944330,9.9,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_1uM_GlassBSA-Durapore_A,Isoleucine_IS,5.23,29545446,204219,24452476,9.9,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_2-5uM_GlassBSA-Durapore_A,Isoleucine_IS,5.23,67239904,271212,59578620,9.7,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Blk_GlassBlk_Vial,Isoleucine_IS,5.23,61728,0,57958,10.1,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassVial_A,Isoleucine_IS,5.24,6556417,58104,5614842,9.6,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassVial_B,Isoleucine_IS,5.24,6407878,21926,5231885,9.4,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassVial_C,Isoleucine_IS,5.24,6368203,9521,5370537,9.3,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0uM_GlassBSA-Vial_A,Isoleucine_IS,5.24,6043148,46066,5434784,9.4,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0-5uM_GlassBSA-Vial_A,Isoleucine_IS,5.24,16505661,118637,13660364,9.6,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_1uM_GlassBSA-Vial_A,Isoleucine_IS,5.24,24018048,213849,20662626,9.6,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_2-5uM_GlassBSA-Vial_A,Isoleucine_IS,5.24,61091924,75799,50720536,9.4,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Blk_GlassBlk_Omnipore,Isoleucine_IS,5.24,143413,0,121575,9.6,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassOmnipore_A,Isoleucine_IS,5.23,7753416,15680,6052994,10.1,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassOmnipore_B,Isoleucine_IS,5.23,7666186,48575,6453626,10.1,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassOmnipore_C,Isoleucine_IS,5.24,5764018,15362,4567273,10,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0uM_GlassBSA-Omnipore_A,Isoleucine_IS,5.23,6900710,101982,6690374,10.1,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0-5uM_GlassBSA-Omnipore_A,Isoleucine_IS,5.24,19110738,73005,15687935,10.3,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_1uM_GlassBSA-Omnipore_A,Isoleucine_IS,5.23,33186618,264660,27396410,10.3,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_2-5uM_GlassBSA-Omnipore_A,Isoleucine_IS,5.23,70720752,753008,64136808,10.2,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Blk_GlassBlk_GF75,Isoleucine_IS,5.23,207458,0,166281,9.2,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassGF75_A,Isoleucine_IS,5.23,5416548,0,3918264,10.4,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassGF75_B,Isoleucine_IS,5.23,7517900,46093,6904095,10.6,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassGF75_C,Isoleucine_IS,5.24,6795209,26302,5755122,10.6,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0uM_GlassBSA-GF75_A,Isoleucine_IS,5.24,6429857,59875,5689788,10.6,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0-5uM_GlassBSA-GF75_A,Isoleucine_IS,5.23,20396096,84900,18976764,10.5,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_1uM_GlassBSA-GF75_A,Isoleucine_IS,5.23,37508556,301487,30382970,10.3,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_2-5uM_GlassBSA-GF75_A,Isoleucine_IS,5.23,77583800,281861,72546320,10.4,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Blk_GlassBlk_Durapore,Phenylalaine_IS,#N/A,#N/A,#N/A,#N/A,#N/A,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassDurapore_A,Phenylalaine_IS,#N/A,#N/A,#N/A,#N/A,#N/A,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassDurapore_B,Phenylalaine_IS,5.86,35398,0,109732,-0.5,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassDurapore_C,Phenylalaine_IS,5.95,31039,0,138713,-0.3,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0uM_GlassBSA-Durapore_A,Phenylalaine_IS,#N/A,#N/A,#N/A,#N/A,#N/A,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0-5uM_GlassBSA-Durapore_A,Phenylalaine_IS,#N/A,#N/A,#N/A,#N/A,#N/A,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_1uM_GlassBSA-Durapore_A,Phenylalaine_IS,5.85,18167,0,61298,-0.1,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_2-5uM_GlassBSA-Durapore_A,Phenylalaine_IS,5.86,9235,0,42398,-7.2,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Blk_GlassBlk_Vial,Phenylalaine_IS,#N/A,#N/A,#N/A,#N/A,#N/A,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassVial_A,Phenylalaine_IS,#N/A,#N/A,#N/A,#N/A,#N/A,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassVial_B,Phenylalaine_IS,5.95,1211,0,3815,5.3,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassVial_C,Phenylalaine_IS,#N/A,#N/A,#N/A,#N/A,#N/A,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0uM_GlassBSA-Vial_A,Phenylalaine_IS,5.17,6188,0,20437,-2.4,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0-5uM_GlassBSA-Vial_A,Phenylalaine_IS,#N/A,#N/A,#N/A,#N/A,#N/A,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_1uM_GlassBSA-Vial_A,Phenylalaine_IS,#N/A,#N/A,#N/A,#N/A,#N/A,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_2-5uM_GlassBSA-Vial_A,Phenylalaine_IS,#N/A,#N/A,#N/A,#N/A,#N/A,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Blk_GlassBlk_Omnipore,Phenylalaine_IS,#N/A,#N/A,#N/A,#N/A,#N/A,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassOmnipore_A,Phenylalaine_IS,#N/A,#N/A,#N/A,#N/A,#N/A,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassOmnipore_B,Phenylalaine_IS,5.83,8207,0,26733,1.8,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassOmnipore_C,Phenylalaine_IS,#N/A,#N/A,#N/A,#N/A,#N/A,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0uM_GlassBSA-Omnipore_A,Phenylalaine_IS,#N/A,#N/A,#N/A,#N/A,#N/A,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0-5uM_GlassBSA-Omnipore_A,Phenylalaine_IS,5.93,1824,0,6855,-3.6,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_1uM_GlassBSA-Omnipore_A,Phenylalaine_IS,#N/A,#N/A,#N/A,#N/A,#N/A,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_2-5uM_GlassBSA-Omnipore_A,Phenylalaine_IS,#N/A,#N/A,#N/A,#N/A,#N/A,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Blk_GlassBlk_GF75,Phenylalaine_IS,#N/A,#N/A,#N/A,#N/A,#N/A,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassGF75_A,Phenylalaine_IS,#N/A,#N/A,#N/A,#N/A,#N/A,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassGF75_B,Phenylalaine_IS,#N/A,#N/A,#N/A,#N/A,#N/A,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_GlassGF75_C,Phenylalaine_IS,#N/A,#N/A,#N/A,#N/A,#N/A,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0uM_GlassBSA-GF75_A,Phenylalaine_IS,#N/A,#N/A,#N/A,#N/A,#N/A,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_0-5uM_GlassBSA-GF75_A,Phenylalaine_IS,#N/A,#N/A,#N/A,#N/A,#N/A,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_1uM_GlassBSA-GF75_A,Phenylalaine_IS,#N/A,#N/A,#N/A,#N/A,#N/A,Amino Acids_Internal Standards
+Amino Acids_Internal Standards,191120_Smp_2-5uM_GlassBSA-GF75_A,Phenylalaine_IS,#N/A,#N/A,#N/A,#N/A,#N/A,Amino Acids_Internal Standards

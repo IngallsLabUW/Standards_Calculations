@@ -36,7 +36,7 @@ chooseFilter <- function(df, filter.type) {
 }
 
 # Subtract the blanks from the areas
-SubtractBlanks <- function(df.w.filter) {
+subtractBlanks <- function(df.w.filter) {
   df.blank.subtracted <- df.w.filter %>%
     group_by(Precursor.Ion.Name) %>%
     mutate(blankArea = Area[which(runtype == "Blank")]) %>%
@@ -64,7 +64,7 @@ createConcentration <- function(df, myconcentrations) {
 
 
 filters.chosen <- chooseFilter(Filter_Test, filter.type = "Durapore")
-blanks.subtracted <- SubtractBlanks(filters.chosen)
+blanks.subtracted <- subtractBlanks(filters.chosen)
 concentrations.added <- createConcentration(blanks.subtracted, myconcentrations = c("0uM", "0.5uM", "1uM", "2.5uM"))
 
 # plots
@@ -98,3 +98,17 @@ All.Info <- concentrations.added %>%
 Final.Concentrations <- All.Info %>%
   group_by(Precursor.Ion.Name) %>%
   mutate(Calculated.Concentration = (Area_noBlank - Intercept) / Slope)
+
+
+# Use one set of concentrations to calculate another ------------------------------
+
+New.Filters.Chosen <- chooseFilter(Filter_Test, filter.type = "GlassVial|GlassBlk_Vial")
+New.Blanks.Subtracted <- subtractBlanks(New.Filters.Chosen)
+
+New.Final.Concentration <- New.Blanks.Subtracted %>%
+  left_join(Final.Concentrations %>% select(Precursor.Ion.Name, Intercept, Slope) %>% unique()) %>%
+  group_by(Precursor.Ion.Name) %>%
+  mutate(Calculated.Concentration = (Area_noBlank - Intercept) / Slope)
+
+
+

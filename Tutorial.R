@@ -1,3 +1,5 @@
+## Make sure you understand everything in this script before moving on to the concentration calculations.
+
 ## This is the source editor, where R scripts are written.
 
 library(tidyverse)

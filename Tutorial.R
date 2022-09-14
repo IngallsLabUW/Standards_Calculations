@@ -9,7 +9,7 @@ options(scipen = 999)
 
 # This is an example of reading in a file from anywhere on your computer.
 # The tilde "~" indicates your home, or starting, directory. The filepath proceeds from there.
-mydata <- read.csv("~/work/Ingalls_Standards/Ingalls_Lab_Standards_NEW.csv",
+mydata <- read.csv("~/work/Ingalls_Standards/Ingalls_Lab_Standards.csv",
                    stringsAsFactors = FALSE)
 
 # Subsetting data
